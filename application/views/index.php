@@ -41,8 +41,8 @@
 							<nav class="d-flex align-items-center">
 								<ul class="main-menu">
 									<li><a href="#top">Inicio</a></li>
-									<li><a href="#services">Services</a></li>
-									<li><a href="#protfolio">Portfolio</a></li>
+									<li><a href="#acerca">Nosotros</a></li>
+									<!--<li><a href="#protfolio">Portfolio</a></li>-->
 									<li><a href="#equipo">Equipo</a></li>
 									<li><a href="#cursos">Cursos</a></li>
 									<li><a href="#contacto">Contacto</a></li>
@@ -53,9 +53,9 @@
 
 							</div>
 							<div class="header-social d-flex align-items-center">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-								<a href="#"><i class="fa fa-twitter"></i></a>
-								<!-- <a href="#"><i class="fa fa-linkedin"></i></a> -->
+								<a target="_blank" href="https://www.facebook.com/AMCEP-290670605000775/?modal=admin_todo_tour"><i class="fa fa-facebook"></i></a>
+								<a target="_blank" href="https://twitter.com/AMCEP1"><i class="fa fa-twitter"></i></a>
+								<a target="_blank" href="https://www.linkedin.com/in/amcep-amcep-s-c-75141116b/"><i class="fa fa-linkedin"></i></a>
 							</div>
 						</div>
 					</div>
@@ -126,7 +126,7 @@
 		</section>
 		<!-- End About Area -->
 		<!-- Start Product Area -->
-		<section id="services" class="title-bg section-full">
+<!-- 		<section id="services" class="title-bg section-full">
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-lg-8">
@@ -183,10 +183,10 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> -->
 		<!-- End Product Area -->
 		<!-- Start Progress Bar Area -->
-		<div class="container pt-150">
+		<!-- <div class="container pt-150">
 			<div class="row">
 				<div class="col-lg-3 col-sm-6 d-flex justify-content-center">
 					<div class="list text-center">
@@ -235,7 +235,7 @@
 						<div class="list-item">
 							<div class="progressBar progressBar--animateAll" data-progress="90">
 								<svg class="progressBar-contentCircle"  viewBox="0 0 200 200">
-									<!-- on défini le l'angle et le centre de rotation du cercle -->
+									
 									<circle transform="rotate(-90, 100, 100)" class="progressBar-background" cx="100" cy="100" r="95" />
 									<circle transform="rotate(-90, 100, 100)" class="progressBar-circle" cx="100" cy="100" r="95" />
 								</svg>
@@ -246,10 +246,10 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 		<!-- End Progress Bar Area -->
 		<!-- Start shuffle Area -->
-		<section id="protfolio" class="section-full">
+<!-- 		<section id="protfolio" class="section-full">
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-lg-8">
@@ -332,7 +332,7 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> -->
 		<!-- End shuffle Area -->
 		<!-- Start Team member Area -->
 		<section id="equipo" class="pb-150">
@@ -429,7 +429,7 @@
 		<!-- End Team member Area -->
 
 		<!-- Start Digital Studio -->
-		<section class="section-full studio-area">
+<!-- 		<section class="section-full studio-area">
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-6">
@@ -442,10 +442,10 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> -->
 		<!-- End Digital Studio -->
 		<!-- Start Pricing Area -->
-		<section class="section-full">
+<!-- 		<section class="section-full">
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-lg-8">
@@ -533,7 +533,7 @@
 					</div>
 				</div>
 			</div>
-		</section>
+		</section> -->
 		<!-- End Pricing Area -->
 		<!-- Start Testimonial Area -->
 <!-- 		<section class="section-full gray-bg">
@@ -699,16 +699,16 @@
 							<h6 class="text-white text-uppercase mb-20">Navigation Links</h6>
 							<div class="d-flex">
 								<ul class="footer-nav">
-									<li><a href="#top">Home</a></li>
+									<li><a href="#top">Inicio</a></li>
 									<li><a href="#acerca">Nosotros</a></li>
-									<li><a href="#">Services</a></li>
-									<li><a href="#">Portfolio</a></li>
+									<li><a href="#equipo">Equipo</a></li>
+									<li><a href="#cursos">Cursos</a></li>
 								</ul>
 								<ul class="ml-30 footer-nav">
-									<li><a href="#equipo">Equipo</a></li>
+							<!-- 		<li><a href="#equipo">Equipo</a></li>
 									<li><a href="#">Pricing</a></li>
 									<li><a href="#">Blog</a></li>
-									<li><a href="#">Contact</a></li>
+									<li><a href="#">Contact</a></li> -->
 								</ul>
 							</div>
 						</div>
@@ -716,7 +716,7 @@
 					<div class="col-lg-3 col-sm-6">
 						<div class="single-footer-widget">
 							<h6 class="text-white text-uppercase mb-20">Suscribete</h6>
-							<p>For business professionals caught between high OEM price and mediocre print and graphic output,</p>
+							<p>Si deseas recibir toda la información de nuestros cursos y capacitaciones a tu correo, suscribete</p>
 							<div id="mc_embed_signup">
 								<form target="_blank" novalidate action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&id=92a4423d01" method="post" class="subscription relative d-flex justify-content-center">
 									<input type="email" name="EMAIL" placeholder="Correo Electrónico" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Correo Electrónico'" required>
@@ -730,28 +730,14 @@
 						</div>
 					</div>
 					<div class="col-lg-3 col-sm-6">
-<!-- 						<div class="single-footer-widget">
-							<h6 class="text-white text-uppercase mb-20">Instafeed</h6>
-							<ul class="instafeed d-flex flex-wrap">
-								<li><img src="<?=base_url()?>img/i1.jpg" alt=""></li>
-								<li><img src="<?=base_url()?>img/i2.jpg" alt=""></li>
-								<li><img src="<?=base_url()?>img/i3.jpg" alt=""></li>
-								<li><img src="<?=base_url()?>img/i4.jpg" alt=""></li>
-								<li><img src="<?=base_url()?>img/i5.jpg" alt=""></li>
-								<li><img src="<?=base_url()?>img/i6.jpg" alt=""></li>
-								<li><img src="<?=base_url()?>img/i7.jpg" alt=""></li>
-								<li><img src="<?=base_url()?>img/i8.jpg" alt=""></li>
-							</ul>
-						</div> -->
+
 					</div>
 				</div>
 				<div class="footer-bottom d-flex justify-content-between align-items-center">
 					<p class="footer-text m-0">Copyright &copy; 2018  |  Todos los derechos reservados para <a href="#">AMCEP</a> Diseñado por <a href="">Colorlib</a>.</p>
 					<div class="footer-social d-flex align-items-center">
-						<a href="#"><i class="fa fa-facebook"></i></a>
-						<a href="#"><i class="fa fa-twitter"></i></a>
-<!-- 						<a href="#"><i class="fa fa-dribbble"></i></a>
-						<a href="#"><i class="fa fa-behance"></i></a> -->
+						<a target="_blank" href="https://www.facebook.com/AMCEP-290670605000775/?modal=admin_todo_tour"><i class="fa fa-facebook"></i></a>
+						<a target="_blank" href="https://twitter.com/AMCEP1"><i class="fa fa-twitter"></i></a>
 					</div>
 				</div>
 			</div>
