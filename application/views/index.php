@@ -26,6 +26,15 @@
 		<link rel="stylesheet" href="<?=base_url()?>css/animate.css">
 		<link rel="stylesheet" href="<?=base_url()?>css/bootstrap.css">
 		<link rel="stylesheet" href="<?=base_url()?>css/main.css">
+		<!--Start of Zendesk Chat Script-->
+		<script type="text/javascript">
+		window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+		d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+		.push(o)};z.=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+		$.src="https://v2.zopim.com/?5xlaKXLpliPlNDi5wBSQllky1XXDS5Sk";z.t=+new Date;$.
+		type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+		</script>
+		<!--End of Zendesk Chat Script-->
 	</head>
 	<body onLoad="setupZoom()">
 		<div id="top"></div>
@@ -35,7 +44,7 @@
 				<div class="container">
 					<div class="header-content d-flex justify-content-between align-items-center">
 						<div class="logo">
-							<a href="#top" class="smooth"><img src="<?=base_url()?>img/amcep2.png" alt=""></a>
+							<a href="#top" class="smooth"><img src="<?=base_url()?>img/amcep.png" alt=""></a>
 						</div>
 						<div class="right-bar d-flex align-items-center">
 							<nav class="d-flex align-items-center">
@@ -70,9 +79,9 @@
 				<div class="row fullscreen justify-content-center align-items-center">
 					<div class="col-lg-8">
 						<div class="banner-content text-center">
-							<p class="text-uppercase text-white">Bienvenido</p>
+							<p> <img src="<?=base_url()?>img/amcepmain.png"></p>							
 							<h2 class="text-uppercase text-white">Asociación Mexicana de Capacitación para la Especialización de Profesionistas</h2>
-							<a href="#acerca" class="primary-btn banner-btn">Conocenos</a>
+							<a href="#acerca" class="primary-btn banner-btn">Conócenos</a>
 						</div>
 					</div>
 				</div>
