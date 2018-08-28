@@ -358,7 +358,7 @@
 				<div class="row">
 					<div class="col-lg-3 col-sm-6">
 						<div class="single-member">
-							<div class="thumb relative" style="background: url(<?=base_url()?>img/Pamela.jpeg);">
+							<div class="thumb relative" style="background: url(<?=base_url()?>img/1.jpeg);">
 								<div class="overlay overlay-member d-flex flex-column justify-content-end align-items-center">
 									<p class="text-white">Apasionada por las ciencias de la salud y la conservación. Comprometida con México para crear cambios positivos  en la sociedad mediante habilidades multidisciplinarias. </p>
 									<div class="line"></div>
@@ -377,7 +377,7 @@
 					</div>
 					<div class="col-lg-3 col-sm-6">
 						<div class="single-member">
-							<div class="thumb relative" style="background: url(<?=base_url()?>img/Manuel.jpeg);">
+							<div class="thumb relative" style="background: url(<?=base_url()?>img/2.jpeg);">
 								<div class="overlay overlay-member d-flex flex-column justify-content-end align-items-center">
 									<p class="text-white">Especializado en cultivo celular y áreas inmunológicas, con interés en el control de calidad y un mayor impulso en el desarrollo farmacéutico a nivel nacional</p>
 									<div class="line"></div>
@@ -396,7 +396,7 @@
 					</div>
 					<div class="col-lg-3 col-sm-6">
 						<div class="single-member">
-							<div class="thumb relative" style="background: url(<?=base_url()?>img/Carla.jpeg);">
+							<div class="thumb relative" style="background: url(<?=base_url()?>img/3.jpeg);">
 								<div class="overlay overlay-member d-flex flex-column justify-content-end align-items-center">
 									<p class="text-white">Estudiante de Ingenieria en Biotecnología, joven emprendedora interesada en el desarrollo de nuevos proyectos para impulsar el crecimiento económico y social en México.</p>
 									<div class="line"></div>
@@ -415,7 +415,7 @@
 					</div>
 					<div class="col-lg-3 col-sm-6">
 						<div class="single-member">
-							<div class="thumb relative" style="background: url(<?=base_url()?>img/Raquel.jpeg);">
+							<div class="thumb relative" style="background: url(<?=base_url()?>img/4.jpeg);">
 								<div class="overlay overlay-member d-flex flex-column justify-content-end align-items-center">
 									<p class="text-white">Con amplio interés en nanotecnología, así como en el desarrollo de nuevos productos en el área cosmética, comprometida con extender el desarrollo sustentable en esta área.</p>
 									<div class="line"></div>
