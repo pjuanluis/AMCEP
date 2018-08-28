@@ -6,9 +6,9 @@
 	<!-- Favicon-->
 	<link rel="shortcut icon" href="img/fav.png">
 	<!-- Author Meta -->
-	<meta name="author" content="ASOCIACIÓN MEXICANA DE CAPACITACIÓN PARA LA ESPECIALIZACIÓN DE PROFESIONISTAS">
+	<meta name="author" content="Soluciones tenológicas">
 	<!-- Meta Description -->
-	<meta name="description" content="">
+	<meta name="description" content="ASOCIACIÓN MEXICANA DE CAPACITACIÓN PARA LA ESPECIALIZACIÓN DE PROFESIONISTAS">
 	<!-- Meta Keyword -->
 	<meta name="keywords" content="">
 	<!-- meta character set -->
