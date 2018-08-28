@@ -598,8 +598,8 @@
 				<div class="row justify-content-center">
 					<div class="col-lg-8">
 						<div class="product-area-title text-center">
-							<p class="text-uppercase">Cursos</p>
-							<h2 class="h1">Publish what you want to </h2>
+							<p class="text-uppercase"></p>
+							<h2 class="h1">Cursos vigentes </h2>
 						</div>
 					</div>
 				</div>
@@ -619,7 +619,7 @@
 								<br>° M. en C. Liliana Carolina Maza Sanchez
 								<br>° D. en C. Fabiola Hernández Rosas
 							</p>						
-							<!-- <a href="#" class="details-btn d-flex justify-content-center align-items-center"><span class="details">Detalles</span><span class="lnr lnr-arrow-right"></span></a> -->
+							<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfbkoyV8iSbnCLjj_x-9mhr01pMHgqqjNjoEZv1Xfp1b0kU6A/viewform" class="details-btn d-flex justify-content-center align-items-center"><span class="details">Registro</span><span class="lnr lnr-arrow-right"></span></a>
 						</div>
 					</div>
 		</section>
@@ -637,7 +637,7 @@
 				</div>
 				<div class="row">
 					<div class="col-lg-6 mt-30">
-						<p>Dramatically reintermediate effective applications after high-payoff core competencies. Authoritatively optimize collaborative benefits for error-free communities. Dramatically reintermediate effective applications after high-payoff core competencies. Authoritatively optimize collaborative benefits for error-free communities.</p>
+						<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.338112134506!2d-99.17360998552621!3d19.39779188690404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff6d96c3a4bb%3A0xfe9d4a2cbd33735c!2sInsurgentes+Sur+601%2C+N%C3%A1poles%2C+03810+Ciudad+de+M%C3%A9xico%2C+CDMX!5e0!3m2!1ses-419!2smx!4v1535418735707" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></p>
 						<div class="row">
 							<div class="col-sm-6">
 								<div class="address mt-20">
@@ -699,13 +699,13 @@
 				<div class="row">
 					<div class="col-lg-3 col-sm-6">
 						<div class="single-footer-widget">
-							<h6 class="text-white text-uppercase mb-20">About Agency</h6>
+							<h6 class="text-white text-uppercase mb-20">Acerca de AMCEP</h6>
 							<p>The world has become so fast paced that people don’t want to stand by reading a page of information, they would much rather look at a presentation and understand the message. It has come to a point </p>
 						</div>
 					</div>
 					<div class="col-lg-3 col-sm-6">
 						<div class="single-footer-widget">
-							<h6 class="text-white text-uppercase mb-20">Navigation Links</h6>
+							<h6 class="text-white text-uppercase mb-20">Navegación</h6>
 							<div class="d-flex">
 								<ul class="footer-nav">
 									<li><a href="#top">Inicio</a></li>
@@ -743,10 +743,11 @@
 					</div>
 				</div>
 				<div class="footer-bottom d-flex justify-content-between align-items-center">
-					<p class="footer-text m-0">Copyright &copy; 2018  |  Todos los derechos reservados para <a href="#">AMCEP</a> Diseñado por <a href="">Colorlib</a>.</p>
+					<p class="footer-text m-0">Copyright &copy; 2018  |  Todos los derechos reservados para <a href="#">AMCEP</a> Diseñado por <a href="mailto:jose.arzate.multiqro@gmail.com">Soluciones tenológicas</a>.</p>
 					<div class="footer-social d-flex align-items-center">
 						<a target="_blank" href="https://www.facebook.com/AMCEP-290670605000775/?modal=admin_todo_tour"><i class="fa fa-facebook"></i></a>
 						<a target="_blank" href="https://twitter.com/AMCEP1"><i class="fa fa-twitter"></i></a>
+						<a target="_blank" href="https://www.linkedin.com/in/amcep-amcep-s-c-75141116b/"><i class="fa fa-linkedin"></i></a>
 					</div>
 				</div>
 			</div>

@@ -1,5 +1,5 @@
 <?php
-    $to = 'pjuanluis97@gmail.com';
+    $to = 'contacto@amcep.mx';
     $firstname = $_POST["fname"];
     $subject= $_POST["subject"];
     $email= $_POST["email"];
@@ -15,9 +15,9 @@
         <tr>
             <td>'.$firstname.'  '.'</td>
         </tr>
-        <tr><td>Subject: '.$subject.'</td></tr>
+        <tr><td>Asunto: '.$subject.'</td></tr>
         <tr><td>Email: '.$email.'</td></tr>
-        <tr><td>Email: '.$text.'</td></tr>
+        <tr><td>Mensaje: '.$text.'</td></tr>
         
     </table>';
 
