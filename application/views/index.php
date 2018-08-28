@@ -6,7 +6,7 @@
 	<!-- Favicon-->
 	<link rel="shortcut icon" href="img/fav.png">
 	<!-- Author Meta -->
-	<meta name="author" content="CodePixar">
+	<meta name="author" content="ASOCIACIÓN MEXICANA DE CAPACITACIÓN PARA LA ESPECIALIZACIÓN DE PROFESIONISTAS">
 	<!-- Meta Description -->
 	<meta name="description" content="">
 	<!-- Meta Keyword -->
@@ -25,17 +25,17 @@
 		<link rel="stylesheet" href="<?=base_url()?>css/font-awesome.min.css">
 		<link rel="stylesheet" href="<?=base_url()?>css/animate.css">
 		<link rel="stylesheet" href="<?=base_url()?>css/bootstrap.css">
-		<link rel="stylesheet" href="<?=base_url()?>css/main.css">
+		<link rel="stylesheet" href="<?=base_url()?>css/main.css">	
 		<!--Start of Zendesk Chat Script-->
 		<script type="text/javascript">
 		window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
 		d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
-		.push(o)};z.=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+		_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
 		$.src="https://v2.zopim.com/?5xlaKXLpliPlNDi5wBSQllky1XXDS5Sk";z.t=+new Date;$.
 		type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
 		</script>
-		<!--End of Zendesk Chat Script-->
-	</head>
+		<!--End of Zendesk Chat Script-->	
+</head>
 	<body onLoad="setupZoom()">
 		<div id="top"></div>
 		<!-- Start Header Area -->
