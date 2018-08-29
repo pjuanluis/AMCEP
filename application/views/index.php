@@ -105,8 +105,8 @@
 							<img src="<?=base_url()?>img/s1.jpg" class="img-fluid" alt="">
 							<figcaption class="text-center">
 								<h5 class="text-uppercase">Misión</h5>
-								<p class="text-justify">AMCEP busca complementar la formación de individuos, capaces de explotar sus habilidades con liderazgo e innovación; sin dejar de lado la responsabilidad social, haciendo frente a las competencias existentes en el campo laboral. Impulsando su compromiso con la sociedad, haciéndolos más competitivos para fomentar el crecimiento económico.</p>
-								<!-- <a href="#" class="primary-btn d-inline-flex align-items-center">Explore<span class="lnr lnr-arrow-right"></span></a> -->
+								<p class="text-justify">AMCEP busca complementar la formación de individuos, capaces de explotar sus habilidades con liderazgo e innovación; sin dejar de lado la responsabilidad social, haciendo frente a las competencias existentes en el campo laboral. Impulsando su compromiso con la sociedad, haciéndolos más competitivos para fomentar el crecimiento económico.</p><br>
+								
 							</figcaption>
 						</figure>
 					</div>
@@ -116,7 +116,7 @@
 							<figcaption class="text-center">
 								<h5 class="text-uppercase">Visión</h5>
 								<p class=" text-justify">En el 2023 La Asociación Mexicana de Capacitación para la Especialización de Profesionistas, será el grupo líder en la impartición de cursos y capacitaciones para el beneficio de individuos interesados en ampliar su formación intelectual en  los ámbitos de ciencias de la vida, ingeniería, investigación científica, control de calidad en la industria, ciencias sociales, humanidades, entre otros.</p>
-								<!-- <a href="#" class="primary-btn d-inline-flex align-items-center">Explore<span class="lnr lnr-arrow-right"></span></a> -->
+								
 							</figcaption>
 						</figure>
 					</div>
@@ -125,7 +125,12 @@
 							<img src="<?=base_url()?>img/s3.jpg" class="img-fluid" alt="">
 							<figcaption class="text-center">
 								<h5 class="text-uppercase">Valores</h5>
-								<p> </p>
+								<p>Nuestros valores son:<br><br>									
+									° Integridad<br><br>
+									° Entusiasmo<br><br>
+									° Liderazgo<br><br>
+									° Inovación<br><br>						
+								</p>
 							<!-- 	<a href="#" class="primary-btn d-inline-flex align-items-center">Explore<span class="lnr lnr-arrow-right"></span></a> -->
 							</figcaption>
 						</figure>
@@ -134,215 +139,7 @@
 			</div>
 		</section>
 		<!-- End About Area -->
-		<!-- Start Product Area -->
-<!-- 		<section id="services" class="title-bg section-full">
-			<div class="container">
-				<div class="row justify-content-center">
-					<div class="col-lg-8">
-						<div class="product-area-title text-center">
-							<p class="text-white text-uppercase">Why Choose Us</p>
-							<h2 class="text-white h1">We ensure perfect quality Digital <br> products for you</h2>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-lg-3 col-sm-6">
-						<div class="single-product">
-							<div class="icon">
-								<span class="lnr lnr-star"></span>
-							</div>
-							<div class="desc">
-								<h4>Unique Design</h4>
-								<p>Most people who work in an office environment, buy computer products, or have </p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3 col-sm-6">
-						<div class="single-product">
-							<div class="icon">
-								<span class="lnr lnr-magic-wand"></span>
-							</div>
-							<div class="desc">
-								<h4>Appropriate UX</h4>
-								<p>Today, many people rely on computers to do homework, work, and create or store useful</p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3 col-sm-6">
-						<div class="single-product">
-							<div class="icon">
-								<span class="lnr lnr-sun"></span>
-							</div>
-							<div class="desc">
-								<h4>Perfect Visual</h4>
-								<p>Having a baby can be a nerve wracking experience for new parents – not the nine months </p>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-3 col-sm-6">
-						<div class="single-product">
-							<div class="icon">
-								<span class="lnr lnr-layers"></span>
-							</div>
-							<div class="desc">
-								<h4>Different Layout</h4>
-								<p>It won’t be a bigger problem to find one video game lover in your neighbor. Since the </p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section> -->
-		<!-- End Product Area -->
-		<!-- Start Progress Bar Area -->
-		<!-- <div class="container pt-150">
-			<div class="row">
-				<div class="col-lg-3 col-sm-6 d-flex justify-content-center">
-					<div class="list text-center">
-						<div class="list-item">
-							<div class="progressBar progressBar--animateNone" data-progress="80">
-								<svg class="progressBar-contentCircle"  viewBox="0 0 200 200">
-									<circle transform="rotate(-90, 100, 100)" class="progressBar-background" cx="100" cy="100" r="95" />
-									<circle transform="rotate(-90, 100, 100)" class="progressBar-circle" cx="100" cy="100" r="95" />
-								</svg>
-								<span class="progressBar-percentage progressBar-percentage-count"></span>
-							</div>
-						</div>
-						<p class="text-uppercase">Web Design</p>
-					</div>
-				</div>
-				<div class="col-lg-3 col-sm-6 d-flex justify-content-center">
-					<div class="list text-center">
-						<div class="list-item">
-							<div class="progressBar progressBar--animateText" data-progress="75">
-								<svg class="progressBar-contentCircle"  viewBox="0 0 200 200">
-									<circle transform="rotate(-90, 100, 100)" class="progressBar-background" cx="100" cy="100" r="95" />
-									<circle transform="rotate(-90, 100, 100)" class="progressBar-circle" cx="100" cy="100" r="95" />
-								</svg>
-								<span class="progressBar-percentage progressBar-percentage-count"></span>
-							</div>
-						</div>
-						<p class="text-uppercase">UI/UX Design</p>
-					</div>
-				</div>
-				<div class="col-lg-3 col-sm-6 d-flex justify-content-center">
-					<div class="list text-center">
-						<div class="list-item">
-							<div class="progressBar progressBar--animateCircle" data-progress="60">
-								<svg class="progressBar-contentCircle"  viewBox="0 0 200 200">
-									<circle transform="rotate(-90, 100, 100)" class="progressBar-background" cx="100" cy="100" r="95" />
-									<circle transform="rotate(-90, 100, 100)" class="progressBar-circle" cx="100" cy="100" r="95" />
-								</svg>
-								<span class="progressBar-percentage progressBar-percentage-count"></span>
-							</div>
-						</div>
-						<p class="text-uppercase">Mobile App</p>
-					</div>
-				</div>
-				<div class="col-lg-3 col-sm-6 d-flex justify-content-center">
-					<div class="list text-center">
-						<div class="list-item">
-							<div class="progressBar progressBar--animateAll" data-progress="90">
-								<svg class="progressBar-contentCircle"  viewBox="0 0 200 200">
-									
-									<circle transform="rotate(-90, 100, 100)" class="progressBar-background" cx="100" cy="100" r="95" />
-									<circle transform="rotate(-90, 100, 100)" class="progressBar-circle" cx="100" cy="100" r="95" />
-								</svg>
-								<span class="progressBar-percentage progressBar-percentage-count"></span>
-							</div>
-						</div>
-						<p class="text-uppercase">Web Development</p>
-					</div>
-				</div>
-			</div>
-		</div> -->
-		<!-- End Progress Bar Area -->
-		<!-- Start shuffle Area -->
-<!-- 		<section id="protfolio" class="section-full">
-			<div class="container">
-				<div class="row justify-content-center">
-					<div class="col-lg-8">
-						<div class="product-area-title text-center">
-							<p class="text-uppercase">Remarkable Works</p>
-							<h2 class="h1">We have gained reliability <br> to serve you best</h2>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="container">
-				<div class="controls d-flex flex-wrap justify-content-center">
-					<a class="filter active" data-filter="all">All</a>
-					<a class="filter" data-filter=".category-1">Categories</a>
-					<a class="filter" data-filter=".category-2">Branding</a>
-					<a class="filter" data-filter=".category-3">Image Manipulation</a>
-					<a class="filter" data-filter=".category-4">Creative Work</a>
-					<a class="filter" data-filter=".category-5">Web Design</a>
-					<a class="filter" data-filter=".category-6">Print Material</a>
-				</div>
-			</div>
 
-
-
-			<div id="filter-content" class="row no-gutters mt-70">
-				<div class="mix category-1 col-lg-3 col-md-4 col-sm-6 single-filter-content content-1" data-myorder="1">
-					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
-						<p class="text-white">Image Manipulation</p>
-						<div class="line"></div>
-						<h5 class="text-white text-uppercase">Creative Tangerine</h5>
-					</div>
-				</div>
-				<div class="mix category-1 category-5 category-3 category-5 col-lg-3 col-md-4 col-sm-6 single-filter-content content-2" data-myorder="2">
-					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
-						<p class="text-white">Image Manipulation</p>
-						<div class="line"></div>
-						<h5 class="text-white text-uppercase">Creative Tangerine</h5>
-					</div>
-				</div>
-				<div class="mix category-1 category-5 col-lg-3 col-md-4 col-sm-6 single-filter-content content-3" data-myorder="3">
-					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
-						<p class="text-white">Image Manipulation</p>
-						<div class="line"></div>
-						<h5 class="text-white text-uppercase">Creative Tangerine</h5>
-					</div>
-				</div>
-				<div class="mix category-2 category-3 category-6 col-lg-3 col-md-4 col-sm-6 single-filter-content content-4" data-myorder="4">
-					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
-						<p class="text-white">Image Manipulation</p>
-						<div class="line"></div>
-						<h5 class="text-white text-uppercase">Creative Tangerine</h5>
-					</div>
-				</div>
-				<div class="mix category-1 category-4 category-5 col-lg-3 col-md-4 col-sm-6 single-filter-content content-5" data-myorder="5">
-					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
-						<p class="text-white">Image Manipulation</p>
-						<div class="line"></div>
-						<h5 class="text-white text-uppercase">Creative Tangerine</h5>
-					</div>
-				</div>
-				<div class="mix category-1 category-3 category-5 category-6 col-lg-3 col-md-4 col-sm-6 single-filter-content content-6" data-myorder="6">
-					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
-						<p class="text-white">Image Manipulation</p>
-						<div class="line"></div>
-						<h5 class="text-white text-uppercase">Creative Tangerine</h5>
-					</div>
-				</div>
-				<div class="mix category-2 category-4 category-3 col-lg-3 col-md-4 col-sm-6 single-filter-content content-7" data-myorder="7">
-					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
-						<p class="text-white">Image Manipulation</p>
-						<div class="line"></div>
-						<h5 class="text-white text-uppercase">Creative Tangerine</h5>
-					</div>
-				</div>
-				<div class="mix category-2 category-6 category-5 col-lg-3 col-md-4 col-sm-6 single-filter-content content-8" data-myorder="8">
-					<div class="overlay overlay-bg-content d-flex align-items-center justify-content-center flex-column">
-						<p class="text-white">Image Manipulation</p>
-						<div class="line"></div>
-						<h5 class="text-white text-uppercase">Creative Tangerine</h5>
-					</div>
-				</div>
-			</div>
-		</section> -->
-		<!-- End shuffle Area -->
 		<!-- Start Team member Area -->
 		<section id="equipo" class="pb-150">
 			<div class="container">
@@ -363,9 +160,9 @@
 									<p class="text-white">Apasionada por las ciencias de la salud y la conservación. Comprometida con México para crear cambios positivos  en la sociedad mediante habilidades multidisciplinarias. </p>
 									<div class="line"></div>
 									<div class="social d-flex align-items-center justify-content-center">
-										<a href="#"><i class="fa fa-facebook"></i></a>
+										<!-- <a href="#"><i class="fa fa-facebook"></i></a>
 										<a href="#"><i class="fa fa-twitter"></i></a>
-										<a href="#"><i class="fa fa-linkedin"></i></a>
+										<a href="#"><i class="fa fa-linkedin"></i></a> -->
 									</div>
 								</div>
 							</div>
@@ -382,9 +179,9 @@
 									<p class="text-white">Especializado en cultivo celular y áreas inmunológicas, con interés en el control de calidad y un mayor impulso en el desarrollo farmacéutico a nivel nacional</p>
 									<div class="line"></div>
 									<div class="social d-flex align-items-center justify-content-center">
-										<a href="#"><i class="fa fa-facebook"></i></a>
+									<!-- 	<a href="#"><i class="fa fa-facebook"></i></a>
 										<a href="#"><i class="fa fa-twitter"></i></a>
-										<a href="#"><i class="fa fa-linkedin"></i></a>
+										<a href="#"><i class="fa fa-linkedin"></i></a> -->
 									</div>
 								</div>
 							</div>
@@ -401,9 +198,9 @@
 									<p class="text-white">Estudiante de Ingenieria en Biotecnología, joven emprendedora interesada en el desarrollo de nuevos proyectos para impulsar el crecimiento económico y social en México.</p>
 									<div class="line"></div>
 									<div class="social d-flex align-items-center justify-content-center">
-										<a href="#"><i class="fa fa-facebook"></i></a>
+										<!-- <a href="#"><i class="fa fa-facebook"></i></a>
 										<a href="#"><i class="fa fa-twitter"></i></a>
-										<a href="#"><i class="fa fa-linkedin"></i></a>
+										<a href="#"><i class="fa fa-linkedin"></i></a> -->
 									</div>
 								</div>
 							</div>
@@ -420,9 +217,9 @@
 									<p class="text-white">Con amplio interés en nanotecnología, así como en el desarrollo de nuevos productos en el área cosmética, comprometida con extender el desarrollo sustentable en esta área.</p>
 									<div class="line"></div>
 									<div class="social d-flex align-items-center justify-content-center">
-										<a href="#"><i class="fa fa-facebook"></i></a>
+							<!-- 			<a href="#"><i class="fa fa-facebook"></i></a>
 										<a href="#"><i class="fa fa-twitter"></i></a>
-										<a href="#"><i class="fa fa-linkedin"></i></a>
+										<a href="#"><i class="fa fa-linkedin"></i></a> -->
 									</div>
 								</div>
 							</div>
@@ -437,161 +234,6 @@
 		</section>
 		<!-- End Team member Area -->
 
-		<!-- Start Digital Studio -->
-<!-- 		<section class="section-full studio-area">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-6">
-						<div class="studio-content">
-							<p class="text-uppercase text-white">We create top class designs</p>
-							<h2 class="h1 text-white text-uppercase mb-20">A Digital Studio Crafting <br> Tech Business</h2>
-							<p class="text-white mb-30">Computer users and programmers have become so accustomed to using Windows, even for the changing capabilities and the appearances of the graphical interface of the versions, therefore it has remained Microsoft’s product. Although, Lycoris, Red Hat, Mandrake,</p>
-							<a href="#" class="primary-btn text-white d-inline-flex align-items-center">Start Business<span class="lnr lnr-arrow-right"></span></a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section> -->
-		<!-- End Digital Studio -->
-		<!-- Start Pricing Area -->
-<!-- 		<section class="section-full">
-			<div class="container">
-				<div class="row justify-content-center">
-					<div class="col-lg-8">
-						<div class="product-area-title text-center">
-							<p class="text-uppercase">Creative People</p>
-							<h2 class="h1">Team work builds trust and <br> trust builds growth</h2>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-4">
-						<div class="single-pricing-table">
-							<div class="top">
-								<div class="head text-center">
-									<span class="lnr lnr-shirt"></span><br>
-									<h5 class="text-white text-uppercase">Standard</h5>
-								</div>
-								<div class="package text-center">
-									<div class="price">£199</div>
-									<span class="text-white">Per month</span>
-								</div>
-							</div>
-
-							<div class="bottom text-center">
-								<ul class="feature text-center">
-									<li>2.5 GB Photos</li>
-									<li>Secure Online Transfer</li>
-									<li>Unlimited Styles</li>
-									<li>Customer Service</li>
-									<li>Manual Backup</li>
-								</ul>
-								<a href="#" class="primary-btn text-uppercase d-inline-flex align-items-center">Purchase<span class="lnr lnr-arrow-right"></span></a>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4">
-						<div class="single-pricing-table">
-							<div class="top">
-								<div class="head text-center">
-									<span class="lnr lnr-shirt"></span><br>
-									<h5 class="text-white text-uppercase">Business</h5>
-								</div>
-								<div class="package text-center">
-									<div class="price">£399</div>
-									<span class="text-white">Per month</span>
-								</div>
-							</div>
-
-							<div class="bottom text-center">
-								<ul class="feature text-center">
-									<li>2.5 GB Photos</li>
-									<li>Secure Online Transfer</li>
-									<li>Unlimited Styles</li>
-									<li>Customer Service</li>
-									<li>Manual Backup</li>
-								</ul>
-								<a href="#" class="primary-btn text-uppercase d-inline-flex align-items-center">Purchase<span class="lnr lnr-arrow-right"></span></a>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-4">
-						<div class="single-pricing-table">
-							<div class="top">
-								<div class="head text-center">
-									<span class="lnr lnr-apartment"></span>
-									<h5 class="text-white text-uppercase">Ultimate</h5>
-								</div>
-								<div class="package text-center">
-									<div class="price">£499</div>
-									<span class="text-white">Per month</span>
-								</div>
-							</div>
-
-							<div class="bottom text-center">
-								<ul class="feature text-center">
-									<li>2.5 GB Photos</li>
-									<li>Secure Online Transfer</li>
-									<li>Unlimited Styles</li>
-									<li>Customer Service</li>
-									<li>Manual Backup</li>
-								</ul>
-								<a href="#" class="primary-btn text-uppercase d-inline-flex align-items-center">Purchase<span class="lnr lnr-arrow-right"></span></a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section> -->
-		<!-- End Pricing Area -->
-		<!-- Start Testimonial Area -->
-<!-- 		<section class="section-full gray-bg">
-			<div class="container">
-				<div class="active-testimonial-carousel">
-					<div class="single-testimonial">
-						<img src="<?=base_url()?>img/ts1.png" class="img-circle" alt="">
-						<p>Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory </p>
-						<div class="author text-center">
-							<h6 class="text-uppercase"><a href="#">Mark Alviro Wiens</a></h6>
-							<span>CEO at Google</span>
-						</div>
-					</div>
-					<div class="single-testimonial">
-						<img src="<?=base_url()?>img/ts2.png" class="img-circle" alt="">
-						<p>Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory </p>
-						<div class="author text-center">
-							<h6 class="text-uppercase"><a href="#">Mark Alviro Wiens</a></h6>
-							<span>CEO at Google</span>
-						</div>
-					</div>
-					<div class="single-testimonial">
-						<img src="<?=base_url()?>img/ts3.png" class="img-circle" alt="">
-						<p>Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory </p>
-						<div class="author text-center">
-							<h6 class="text-uppercase"><a href="#">Mark Alviro Wiens</a></h6>
-							<span>CEO at Google</span>
-						</div>
-					</div>
-					<div class="single-testimonial">
-						<img src="<?=base_url()?>img/ts3.png" class="img-circle" alt="">
-						<p>Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory </p>
-						<div class="author text-center">
-							<h6 class="text-uppercase"><a href="#">Mark Alviro Wiens</a></h6>
-							<span>CEO at Google</span>
-						</div>
-					</div>
-					<div class="single-testimonial">
-						<img src="<?=base_url()?>img/ts3.png" class="img-circle" alt="">
-						<p>Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory </p>
-						<div class="author text-center">
-							<h6 class="text-uppercase"><a href="#">Mark Alviro Wiens</a></h6>
-							<span>CEO at Google</span>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section> -->
-		<!-- End Testimonial Area -->
 		<!-- ZONA DE CURSOS -->
 		<section id="cursos" class="section-full">
 			<div class="container">
@@ -682,18 +324,7 @@
 			</div>
 		</section>
 		<!-- End Contact Area -->
-		<!-- Start Cta Area -->
-<!-- 		<section class="cta-area">
-			<div class="container">
-				<div class="row justify-content-center">
-					<div class="col-lg-8 d-flex no-flex-xs justify-content-between align-items-center">
-						<h5 class="text-uppercase text-white">Not yet convinced with our quality?</h5>
-						<a href="#" class="primary-btn d-inline-flex text-uppercase text-white align-items-center">Explore Services<span class="lnr lnr-arrow-right"></span></a>
-					</div>
-				</div>
-			</div>
-		</section> -->
-		<!-- End Cta Area -->
+
 		<footer class="section-full">
 			<div class="container">
 				<div class="row">
@@ -743,7 +374,7 @@
 					</div>
 				</div>
 				<div class="footer-bottom d-flex justify-content-between align-items-center">
-					<p class="footer-text m-0">Copyright &copy; 2018  |  Todos los derechos reservados para <a href="#">AMCEP</a> Diseñado por <a href="mailto:jose.arzate.multiqro@gmail.com">Soluciones tenológicas</a>.</p>
+					<p class="footer-text m-0">Copyright &copy; 2018  |  Todos los derechos reservados para <a href="#">AMCEP S.C.</a>  Diseñado por <a href="mailto:jose.arzate.multiqro@gmail.com">Soluciones tenológicas</a>.</p>
 					<div class="footer-social d-flex align-items-center">
 						<a target="_blank" href="https://www.facebook.com/AMCEP-290670605000775/?modal=admin_todo_tour"><i class="fa fa-facebook"></i></a>
 						<a target="_blank" href="https://twitter.com/AMCEP1"><i class="fa fa-twitter"></i></a>
