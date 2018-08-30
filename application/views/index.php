@@ -10,7 +10,7 @@
 	<!-- Meta Description -->
 	<meta name="description" content="ASOCIACIÓN MEXICANA DE CAPACITACIÓN PARA LA ESPECIALIZACIÓN DE PROFESIONISTAS">
 	<!-- Meta Keyword -->
-	<meta name="keywords" content="">
+	<meta name="keywords" content="AMCEP, amcep, Asociación Mexicana, Cursos, Capacitaciones">
 	<!-- meta character set -->
 	<meta charset="UTF-8">
 	<!-- Site Title -->
@@ -95,14 +95,14 @@
 					<div class="col-lg-10">
 						<div class="section-title text-center">
 							<p class="text-uppercase">Acerca de AMCEP</p>
-							<h3>Plantronics with its GN Netcom <b>wireless headset</b> creates the next generation of wireless headset and other products such as wireless amplifiers, and <b>wireless headset</b> telephone.</h3>
+							<h3>Somos una empresa que capacita y especializa a todo individuo que desee destacar del resto.</h3>
 						</div>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-4">
 						<figure class="signle-service">
-							<img src="<?=base_url()?>img/s1.jpg" class="img-fluid" alt="">
+							<img height="250" width="360" src="<?=base_url()?>img/mision.jpeg" class="img-fluid" alt="">
 							<figcaption class="text-center">
 								<h5 class="text-uppercase">Misión</h5>
 								<p class="text-justify">AMCEP busca complementar la formación de individuos, capaces de explotar sus habilidades con liderazgo e innovación; sin dejar de lado la responsabilidad social, haciendo frente a las competencias existentes en el campo laboral. Impulsando su compromiso con la sociedad, haciéndolos más competitivos para fomentar el crecimiento económico.</p><br>
@@ -112,7 +112,7 @@
 					</div>
 					<div class="col-md-4">
 						<figure class="signle-service">
-							<img src="<?=base_url()?>img/s2.jpg" class="img-fluid" alt="">
+							<img height="250" width="360" src="<?=base_url()?>img/vision.jpeg" class="img-fluid" alt="">
 							<figcaption class="text-center">
 								<h5 class="text-uppercase">Visión</h5>
 								<p class=" text-justify">En el 2023 La Asociación Mexicana de Capacitación para la Especialización de Profesionistas, será el grupo líder en la impartición de cursos y capacitaciones para el beneficio de individuos interesados en ampliar su formación intelectual en  los ámbitos de ciencias de la vida, ingeniería, investigación científica, control de calidad en la industria, ciencias sociales, humanidades, entre otros.</p>
@@ -122,7 +122,7 @@
 					</div>
 					<div class="col-md-4">
 						<figure class="signle-service">
-							<img src="<?=base_url()?>img/s3.jpg" class="img-fluid" alt="">
+							<img height="250px" width="360px" src="<?=base_url()?>img/Valores.jpg" class="img-fluid" alt="">
 							<figcaption class="text-center">
 								<h5 class="text-uppercase">Valores</h5>
 								<p>Nuestros valores son:<br><br>									
@@ -331,7 +331,7 @@
 					<div class="col-lg-3 col-sm-6">
 						<div class="single-footer-widget">
 							<h6 class="text-white text-uppercase mb-20">Acerca de AMCEP</h6>
-							<p>The world has become so fast paced that people don’t want to stand by reading a page of information, they would much rather look at a presentation and understand the message. It has come to a point </p>
+							<p>Somos una empresa que capacita y especializa a todo individuo que desee destacar del resto.</p>
 						</div>
 					</div>
 					<div class="col-lg-3 col-sm-6">
@@ -358,7 +358,7 @@
 							<h6 class="text-white text-uppercase mb-20">Suscribete</h6>
 							<p>Si deseas recibir toda la información de nuestros cursos y capacitaciones a tu correo, suscribete</p>
 							<div id="mc_embed_signup">
-								<form target="_blank" novalidate action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&id=92a4423d01" method="post" class="subscription relative d-flex justify-content-center">
+								<form target="_blank" novalidate action="#" method="post" class="subscription relative d-flex justify-content-center">
 									<input type="email" name="EMAIL" placeholder="Correo Electrónico" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Correo Electrónico'" required>
 									<div style="position: absolute; left: -5000px;">
 										<input type="text" name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="">
@@ -374,7 +374,10 @@
 					</div>
 				</div>
 				<div class="footer-bottom d-flex justify-content-between align-items-center">
-					<p class="footer-text m-0">Copyright &copy; 2018  |  Todos los derechos reservados para <a href="#">AMCEP S.C.</a>  Diseñado por <a href="mailto:jose.arzate.multiqro@gmail.com">Soluciones tenológicas</a>.</p>
+					<p class="footer-text m-0">Copyright &copy; 2018  |  Todos los derechos reservados para <a href="#">AMCEP S.C.</a>  Diseñado por <a href="mailto:jose.arzate.multiqro@gmail.com">Soluciones tenológicas</a>.<br>
+						Consulta nuestro aviso de privacidad <a target="_blank" href="<?=base_url()?>pdf/AVISO-DE-PRIVACIDAD-AMCEP.pdf">aqui</a>.
+
+					</p>
 					<div class="footer-social d-flex align-items-center">
 						<a target="_blank" href="https://www.facebook.com/AMCEP-290670605000775/?modal=admin_todo_tour"><i class="fa fa-facebook"></i></a>
 						<a target="_blank" href="https://twitter.com/AMCEP1"><i class="fa fa-twitter"></i></a>
