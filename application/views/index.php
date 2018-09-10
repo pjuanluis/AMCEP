@@ -264,6 +264,29 @@
 							<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfbkoyV8iSbnCLjj_x-9mhr01pMHgqqjNjoEZv1Xfp1b0kU6A/viewform" class="details-btn d-flex justify-content-center align-items-center"><span class="details">Registro</span><span class="lnr lnr-arrow-right"></span></a>
 						</div>
 					</div>
+					<div class="col-lg-3 col-md-6">
+						<div class="single-publish">
+							<a href="<?=base_url()?>img/biotec.jpeg"><img src="<?=base_url()?>img/biotec.jpeg" class="img-fluid" alt="" width="450" height="600" style="width: 450 !important; height: 500 !important;"></a>
+							<div class="top">
+								<div class="mb-15 d-flex">
+									<a href="#">27 Octubre 2018</a>
+									<span class="line"></span>
+									
+								</div>
+								<h6 class="text-uppercase"><a href="#">Biotecnología en el Sector Salud</a></h6>
+							</div>
+							<p class="mb-30">Curso impartido por: 
+								<br>° IBT. Adriana Andrade
+								<br>° M. en I. Manuel Jaime Rodríguez
+								<br>° I.I. Emilio de Jesús Ramírez
+								<br>° Mtro. José Luis Meza
+								<br>° QFB. Daniela González
+							</p>						
+							<a target="_blank" href="https://goo.gl/forms/tDWUz5TqUKgX1jY32" class="details-btn d-flex justify-content-center align-items-center"><span class="details">Registro</span><span class="lnr lnr-arrow-right"></span></a>
+						</div>
+					</div>
+				</div>
+			</div>
 		</section>
 		<!-- End Publish Area -->
 		<!-- Start Contact Area -->
