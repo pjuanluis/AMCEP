@@ -285,6 +285,44 @@
 							<a target="_blank" href="https://goo.gl/forms/tDWUz5TqUKgX1jY32" class="details-btn d-flex justify-content-center align-items-center"><span class="details">Registro</span><span class="lnr lnr-arrow-right"></span></a>
 						</div>
 					</div>
+					<div class="col-lg-3 col-md-6">
+						<div class="single-publish">
+							<a href="<?=base_url()?>img/negocios-biotecnologia.jpeg"><img src="<?=base_url()?>img/negocios-biotecnologia.jpeg" class="img-fluid" alt="" width="450" height="600" style="width: 450 !important; height: 500 !important;"></a>
+							<div class="top">
+								<div class="mb-15 d-flex">
+									<a href="#">10 Noviembre 2018</a>
+									<span class="line"></span>
+									
+								</div>
+								<h6 class="text-uppercase"><a href="#">Nuevos negocios en Biotecnología</a></h6>
+							</div>
+							<p class="mb-30">Curso impartido por: 
+								<br>° M. en I. Manuel Jaime Rodríguez
+								<br>° IBT. Xochitl Citalli Romo
+								<br>° Biol. Norma Sosa
+								<br>° IBT. Adriana Ballescá
+							</p>						
+							<!-- <a target="_blank" href="https://goo.gl/forms/tDWUz5TqUKgX1jY32" class="details-btn d-flex justify-content-center align-items-center"><span class="details">Registro</span><span class="lnr lnr-arrow-right"></span></a> -->
+						</div>
+					</div>
+					<div class="col-lg-3 col-md-6">
+						<div class="single-publish">
+							<a href="<?=base_url()?>img/agronegocios.jpeg"><img src="<?=base_url()?>img/agronegocios.jpeg" class="img-fluid" alt="" width="450" height="600" style="width: 450 !important; height: 500 !important;"></a>
+							<div class="top">
+								<div class="mb-15 d-flex">
+									<a href="#">24 Noviembre 2018</a>
+									<span class="line"></span>
+									
+								</div>
+								<h6 class="text-uppercase"><a href="#">Agronegocios</a></h6>
+							</div>
+							<p class="mb-30">Curso impartido por: 
+								<br>° D. en C. Estela Flores Gómez
+								<br>° IBT. Pricilla Carrillo Bueñuelos
+							</p>						
+							<!--<a target="_blank" href="https://goo.gl/forms/tDWUz5TqUKgX1jY32" class="details-btn d-flex justify-content-center align-items-center"><span class="details">Registro</span><span class="lnr lnr-arrow-right"></span></a> -->
+						</div>
+					</div>
 				</div>
 			</div>
 		</section>
