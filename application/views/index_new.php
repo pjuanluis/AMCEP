@@ -249,94 +249,25 @@
 					<div class="col-lg-3 col-md-6">
 						<div class="single-publish">
 							<a href="<?=base_url()?>img/genetica-forense.png"><img src="<?=base_url()?>img/genetica-forense.png" class="img-fluid" alt=""></a>
-							<div class="top">
-								<div class="mb-15 d-flex">
-									<a href="#">13 Octubre 2018</a>
-									<span class="line"></span>
-									
-								</div>
-								<h6 class="text-uppercase"><a href="#">Genética Forense</a></h6>
-							</div>
-							<p class="mb-30">Curso impartido por: 
-								<br>° M. en C. Liliana Carolina Maza Sanchez
-								<br>° D. en C. Fabiola Hernández Rosas
-							</p>
+							<div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-120557023" itemscope itemtype="http://schema.org/Product" data-single-product-id="120557023"><div class="ecwid-title" itemprop="name" content="Genetica Forense"></div><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="1800" data-spw-price-location="button"><div itemprop="priceCurrency" content="MXN"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?15421493&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6">
 						<div class="single-publish">
 							<a href="<?=base_url()?>img/biotec.jpeg"><img src="<?=base_url()?>img/biotec.jpeg" class="img-fluid" alt="" width="450" height="600" style="width: 450 !important; height: 500 !important;"></a>
-							<div class="top">
-								<div class="mb-15 d-flex">
-									<a href="#">27 Octubre 2018</a>
-									<span class="line"></span>
-									
-								</div>
-								<h6 class="text-uppercase"><a href="#">Biotecnología en el Sector Salud</a></h6>
-							</div>
-							<p class="mb-30">Curso impartido por: 
-								<br>° IBT. Adriana Andrade
-								<br>° M. en I. Manuel Jaime Rodríguez
-								<br>° I.I. Emilio de Jesús Ramírez
-								<br>° Mtro. José Luis Meza
-								<br>° QFB. Daniela González
-							</p>						
+							<div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-120546819" itemscope itemtype="http://schema.org/Product" data-single-product-id="120546819"><div class="ecwid-title" itemprop="name" content="Biotecnología en el Sector Salud"></div><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="2300" data-spw-price-location="button"><div itemprop="priceCurrency" content="MXN"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?15421493&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6">
 						<div class="single-publish">
 							<a href="<?=base_url()?>img/negocios-biotecnologia.jpeg"><img src="<?=base_url()?>img/negocios-biotecnologia.jpeg" class="img-fluid" alt="" width="450" height="600" style="width: 450 !important; height: 500 !important;"></a>
-							<div class="top">
-								<div class="mb-15 d-flex">
-									<a href="#">10 Noviembre 2018</a>
-									<span class="line"></span>
-									
-								</div>
-								<h6 class="text-uppercase"><a href="#">Nuevos negocios en Biotecnología</a></h6>
-							</div>
-							<p class="mb-30">Curso impartido por: 
-								<br>° M. en I. Manuel Jaime Rodríguez
-								<br>° IBT. Xochitl Citalli Romo
-								<br>° Biol. Norma Sosa
-								<br>° IBT. Adriana Ballescá
-							</p>						
-							<!-- <a target="_blank" href="https://goo.gl/forms/tDWUz5TqUKgX1jY32" class="details-btn d-flex justify-content-center align-items-center"><span class="details">Registro</span><span class="lnr lnr-arrow-right"></span></a> -->
+							<div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-120557266" itemscope itemtype="http://schema.org/Product" data-single-product-id="120557266"><div class="ecwid-title" itemprop="name" content="Nuevos negocios en Biotecnología"></div><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="1450" data-spw-price-location="button"><div itemprop="priceCurrency" content="MXN"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?15421493&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>						
 						</div>
 					</div>
 					<div class="col-lg-3 col-md-6">
 						<div class="single-publish">
-							<a href="<?=base_url()?>img/agronegocios.jpeg"><img src="<?=base_url()?>img/agronegocios.jpeg" class="img-fluid" alt="" width="450" height="600" style="width: 450 !important; height: 500 !important;"></a>
-							<div class="top">
-								<div class="mb-15 d-flex">
-									<a href="#">24 Noviembre 2018</a>
-									<span class="line"></span>
-									
-								</div>
-								<h6 class="text-uppercase"><a href="#">Agronegocios</a></h6>
-							</div>
-							<p class="mb-30">Curso impartido por: 
-								<br>° D. en C. Estela Flores Gómez
-								<br>° IBT. Pricilla Carrillo Bueñuelos
-							</p>						
-							<!--<a target="_blank" href="https://goo.gl/forms/tDWUz5TqUKgX1jY32" class="details-btn d-flex justify-content-center align-items-center"><span class="details">Registro</span><span class="lnr lnr-arrow-right"></span></a> -->
-						</div>
-					</div>
-					<div class="col-lg-3 col-md-6">
-						<div class="single-publish">
-							<a href="<?=base_url()?>img/fundamentos-bioprocesos.jpeg"><img src="<?=base_url()?>img/fundamentos-bioprocesos.jpeg" class="img-fluid" alt=""></a>
-							<div class="top">
-								<div class="mb-15 d-flex">
-									<a href="#">8 Diciembre 2018</a>
-									<span class="line"></span>
-									
-								</div>
-								<h6 class="text-uppercase"><a href="#">Fundamentos de Bioprocesos</a></h6>
-							</div>
-							<p class="mb-30">Curso impartido por: 
-								<br>° IBT. Rodrigo Yebra
-								<br>° D. en C. Rodrigo Balam
-								<br>° IBT. Mario Novoa
-							</p>						
+							<a href="<?=base_url()?>img/negocios-biotecnologia.jpeg"><img src="<?=base_url()?>img/agronegocios.jpeg" class="img-fluid" alt="" width="450" height="600" style="width: 450 !important; height: 500 !important;"></a>
+							<div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-120557410" itemscope itemtype="http://schema.org/Product" data-single-product-id="120557410"><div class="ecwid-title" itemprop="name" content="Agronegocios"></div><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="950" data-spw-price-location="button"><div itemprop="priceCurrency" content="MXN"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?15421493&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>				
 						</div>
 					</div>
 				</div>
