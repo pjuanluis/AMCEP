@@ -81,16 +81,16 @@
                       </ol>
                       <div class="carousel-inner">
                         <div class="carousel-item active">
-                           <img class="d-block w-100" src="img/banner" alt="First slide">
+                           <img class="d-block w-100" src="img/carrusel/1.jpeg" alt="First slide">
                            <div class="carousel-caption d-none d-md-block">
                               <h4 class="text-light">ASOCIACIÓN MEXICANA DE CAPACITACIÓN PARA LA ESPECIALIZACIÓN DE PROFESIONISTAS</h4>
                            </div>
                         </div>
                         <div class="carousel-item">
-                           <img class="d-block w-100" src="img/banner" alt="Second slide">
+                           <img class="d-block w-100" src="img/carrusel/2.jpeg" alt="Second slide">
                         </div>
                         <div class="carousel-item">
-                           <img class="d-block w-100" src="img/banner" alt="Third slide">
+                           <img class="d-block w-100" src="img/carrusel/3.jpeg" alt="Third slide">
                         </div>
                      </div>
                      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -364,7 +364,7 @@
                <!-- End news 1 -->
                <div class="col-lg-3 col-md-6">
                   <div class="single-publish">
-                     <a target="_blank" href="https://www.eleconomista.com.mx/opinion/El-comercio-agroalimentario-mundial-20181028-0032.html"><img src="http://cdn.impacto.mx/wp-content/uploads/2017/03/comercio-agroalimentario.jpg" class="img-fluid" alt=""></a>
+                     <a target="_blank" href="https://www.eleconomista.com.mx/opinion/El-comercio-agroalimentario-mundial-20181028-0032.html"><img src="<?=base_url()?>img/noticias/2.jpg" class="img-fluid" alt=""></a>
                      <div class="top">
                         <div class="mb-15 d-flex">
                            <label></label>
@@ -392,7 +392,7 @@
                <!-- End news 3 -->
                <div class="col-lg-3 col-md-6">
                   <div class="single-publish">
-                     <a target="_blank" href="https://www.eleconomista.com.mx/opinion/Salon-de-la-alimentacion-retos-de-innovacion-alimentaria-20181023-0027.html"><img src="http://diariodegastronomia.com/wp-content/uploads/2016/01/Innovación-en-alimentación.jpg" class="img-fluid" alt=""></a>
+                     <a target="_blank" href="https://www.eleconomista.com.mx/opinion/Salon-de-la-alimentacion-retos-de-innovacion-alimentaria-20181023-0027.html"><img src="<?=base_url()?>img/noticias/4.jpg" class="img-fluid" alt=""></a>
                      <div class="top">
                         <div class="mb-15 d-flex">
                            <label></label>
