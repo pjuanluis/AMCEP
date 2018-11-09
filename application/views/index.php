@@ -86,14 +86,12 @@
                               <h3 class="text-light">ASOCIACIÓN MEXICANA DE CAPACITACIÓN PARA LA ESPECIALIZACIÓN DE PROFESIONISTAS</h3>
                            </div> -->
                         </div>
-                        <div class="carousel-item text-center">
-                           <video  controls>
-                              <source src="img/carrusel/2.mp4" type="video/mp4">
-                           </video>
+                        <div class="carousel-item">                           
+                           <img class="d-block w-100" src="img/carrusel/2.jpg" alt="Two slide">                         
                         </div>
-                       <!--  <div class="carousel-item">
-                           <img class="d-block w-100" src="img/carrusel/3.jpeg" alt="Third slide">
-                        </div> -->
+                        <div class="carousel-item">
+                           <img class="d-block w-100" src="img/carrusel/3.jpg" alt="Third slide">
+                        </div>
                      </div>
                      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -139,20 +137,20 @@
                      <img height="250" width="360" src="<?=base_url()?>img/vision.jpg" class="img-fluid" alt="">
                      <figcaption class="text-center">
                         <h5 class="text-uppercase">Visión</h5>
-                        <p class=" text-justify">En el año 2023 la Asociación Mexicana de Capacitación para la Especialización de Profesionistas será el grupo líder en capacitación mediante cursos de calidad en las áreas educativas; orientada a alumnos y profesionistas complementando y reforzando su formación educativa en México.</p>
+                        <p class=" text-justify">En el año 2023 la Asociación Mexicana de Capacitación para la Especialización de Profesionistas será el grupo líder en capacitación mediante cursos de calidad en las áreas educativas; orientada a alumnos y profesionistas complementando y reforzando su formación educativa en México.</p><br><br><br><br><br><br><br><br><br>
                      </figcaption>
                   </figure>
                </div>
                <div class="col-md-4">
                   <figure class="signle-service">
-                     <img height="250px" width="360px" src="<?=base_url()?>img/Valores.jpg" class="img-fluid" alt="">
+                     <img height="250" width="360" src="<?=base_url()?>img/Valores.jpg" class="img-fluid" alt="">
                      <figcaption class="text-center">
                         <h5 class="text-uppercase">Valores</h5>
                         <p>Nuestros valores son:<br><br>                        									
                            <button type="button" class="btn btn-link" onclick="calidad()">° Calidad</button> <br><br>
                            <button type="button" class="btn btn-link" onclick="respeto();">° Respeto</button> <br><br>
                            <button type="button" class="btn btn-link" onclick="equidad();">° Equidad</button> <br><br>
-                           <button type="button" class="btn btn-link" onclick="honestidad();">° Honestidad</button> <br><br>
+                           <button type="button" class="btn btn-link" onclick="honestidad();">° Honestidad</button> <br><br><br><br><br><br>
                         </p>
                      </figcaption>
                   </figure>
@@ -299,18 +297,18 @@
                </div>
             </div>
             <div class="row">
-               <div class="active-testimonial-carousel">
-                  <div class="single-testimonial">
+               <!--<div class="active-testimonial-carousel"> -->
+                  <div class="col-lg-3 col-md-6">
                      <div class="single-publish">
                         <a href="<?=base_url()?>img/cursos/old/1.jpeg"><img src="<?=base_url()?>img/cursos/old/1.jpeg" class="img-fluid"></a>
                      </div>
                   </div>
-                  <div class="single-testimonial">
+                  <div class="col-lg-3 col-md-6">
                      <div class="single-publish">
                         <a href="<?=base_url()?>img/cursos/old/2.jpeg"><img src="<?=base_url()?>img/cursos/old/2.jpeg" class="img-fluid" alt=""></a>					
                      </div>
                   </div>
-               </div>
+               <!--</div> -->
             </div>
          </div>
       </section>
