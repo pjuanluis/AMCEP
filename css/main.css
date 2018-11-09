@@ -733,7 +733,7 @@ td, th {
   line-height: 40px;
   padding: 0 40px;
   border-radius: 20px;
-  background: transparent;
+  
   border: 1px solid #00ff8c;
   color: #222222;
   display: inline-block;
@@ -743,6 +743,9 @@ td, th {
   -o-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
   cursor: pointer;
+  background: #00ff8c;
+  color: #fff;
+  box-shadow: 0px 10px 20px 0px rgba(60, 64, 143, 0.2);
 }
 
 .primary-btn:focus {

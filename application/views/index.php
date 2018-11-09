@@ -81,17 +81,19 @@
                       </ol>
                       <div class="carousel-inner">
                         <div class="carousel-item active">
-                           <img class="d-block w-100" src="img/carrusel/1.jpeg" alt="First slide">
-                           <div class="carousel-caption d-none d-md-block">
-                              <h4 class="text-light">ASOCIACIÓN MEXICANA DE CAPACITACIÓN PARA LA ESPECIALIZACIÓN DE PROFESIONISTAS</h4>
-                           </div>
+                           <img class="d-block w-100" src="img/carrusel/1.jpg" alt="First slide">
+                          <!--  <div class="carousel-caption d-none d-md-block">
+                              <h3 class="text-light">ASOCIACIÓN MEXICANA DE CAPACITACIÓN PARA LA ESPECIALIZACIÓN DE PROFESIONISTAS</h3>
+                           </div> -->
                         </div>
-                        <div class="carousel-item">
-                           <img class="d-block w-100" src="img/carrusel/2.jpeg" alt="Second slide">
+                        <div class="carousel-item text-center">
+                           <video  controls>
+                              <source src="img/carrusel/2.mp4" type="video/mp4">
+                           </video>
                         </div>
-                        <div class="carousel-item">
+                       <!--  <div class="carousel-item">
                            <img class="d-block w-100" src="img/carrusel/3.jpeg" alt="Third slide">
-                        </div>
+                        </div> -->
                      </div>
                      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -113,7 +115,9 @@
             <div class="row justify-content-center">
                <div class="col-lg-10">
                   <div class="section-title text-center">
-                     <p class="text-uppercase">Acerca de AMCEP</p>
+                     <p class="text-uppercase">
+                        <button type="button" class="btn btn-link" onclick="acerca();">Acerca de AMCEP</button>
+                     </p>
                      <h3>Somos una empresa que capacita y especializa a todo individuo que desee destacar del resto.</h3>
                   </div>
                </div>
@@ -124,7 +128,8 @@
                      <img height="250" width="360" src="<?=base_url()?>img/mision.jpg" class="img-fluid" alt="">
                      <figcaption class="text-center">
                         <h5 class="text-uppercase">Misión</h5>
-                        <p class="text-justify">AMCEP busca complementar la formación de individuos, capaces de explotar sus habilidades con liderazgo e innovación; sin dejar de lado la responsabilidad social, haciendo frente a las competencias existentes en el campo laboral. Impulsando su compromiso con la sociedad, haciéndolos más competitivos para fomentar el crecimiento económico.</p>
+                        <p class="text-justify">La Asociación Mexicana de Capacitación para la Especialización de Profesionistas busca complementar y reforzar los conocimientos adquiridos tanto de alumnos como de profesionistas en México, mejorando su competitividad y fomentando así su crecimiento y desarrollo, concediendo la certificación DC-3 a los pasantes de los diversos cursos impartidos por AMCEP.<br>
+                        La Asociación Mexicana de Capacitación para la Especialización de Profesionistas busca complementar y reforzar los conocimientos adquiridos tanto de alumnos como de profesionistas en México, mejorando su competitividad y fomentando su crecimiento en el campo laboral.</p>
                         <br>
                      </figcaption>
                   </figure>
@@ -134,7 +139,7 @@
                      <img height="250" width="360" src="<?=base_url()?>img/vision.jpg" class="img-fluid" alt="">
                      <figcaption class="text-center">
                         <h5 class="text-uppercase">Visión</h5>
-                        <p class=" text-justify">En el 2023 La Asociación Mexicana de Capacitación para la Especialización de Profesionistas, será el grupo líder en la impartición de cursos y capacitaciones para el beneficio de individuos interesados en ampliar su formación intelectual en  los ámbitos de ciencias de la vida, ingeniería, investigación científica, control de calidad en la industria, ciencias sociales, humanidades, entre otros.</p>
+                        <p class=" text-justify">En el año 2023 la Asociación Mexicana de Capacitación para la Especialización de Profesionistas será el grupo líder en capacitación mediante cursos de calidad en las áreas educativas; orientada a alumnos y profesionistas complementando y reforzando su formación educativa en México.</p>
                      </figcaption>
                   </figure>
                </div>
@@ -143,13 +148,12 @@
                      <img height="250px" width="360px" src="<?=base_url()?>img/Valores.jpg" class="img-fluid" alt="">
                      <figcaption class="text-center">
                         <h5 class="text-uppercase">Valores</h5>
-                        <p>Nuestros valores son:<br><br>									
-                           ° Integridad<br><br>
-                           ° Entusiasmo<br><br>
-                           ° Liderazgo<br><br>
-                           ° Inovación<br><br>						
+                        <p>Nuestros valores son:<br><br>                        									
+                           <button type="button" class="btn btn-link" onclick="calidad()">° Calidad</button> <br><br>
+                           <button type="button" class="btn btn-link" onclick="respeto();">° Respeto</button> <br><br>
+                           <button type="button" class="btn btn-link" onclick="equidad();">° Equidad</button> <br><br>
+                           <button type="button" class="btn btn-link" onclick="honestidad();">° Honestidad</button> <br><br>
                         </p>
-                        <!-- 	<a href="#" class="primary-btn d-inline-flex align-items-center">Explore<span class="lnr lnr-arrow-right"></span></a> -->
                      </figcaption>
                   </figure>
                </div>
@@ -158,7 +162,7 @@
       </section>
       <!-- End About Area -->
       <!-- Start Team member Area -->
-      <section id="equipo" class="pb-150">
+      <section id="equipo" class="section-full">
          <div class="container">
             <div class="row justify-content-center">
                <div class="col-lg-8">
@@ -204,7 +208,7 @@
                         </div>
                      </div>
                      <div class="desc text-center">
-                        <h5 class="text-uppercase"><a href="#">Manuel Jaime Rodríguez</a></h5>
+                        <h5 class="text-uppercase"><a href="#">Manuel Rodríguez</a></h5>
                         <p>Ingeniero en Biotecnología</p>
                      </div>
                   </div>
@@ -223,7 +227,7 @@
                         </div>
                      </div>
                      <div class="desc text-center">
-                        <h5 class="text-uppercase"><a href="#">Carla Hidalgo Orta</a></h5>
+                        <h5 class="text-uppercase"><a href="#">Carla Hidalgo Horta</a></h5>
                         <p>Estudiante de Biotecnología</p>
                      </div>
                   </div>
@@ -242,7 +246,7 @@
                         </div>
                      </div>
                      <div class="desc text-center">
-                        <h5 class="text-uppercase"><a href="#">Raquel Ramírez Santiago</a></h5>
+                        <h5 class="text-uppercase"><a href="#">Raquel Ramírez</a></h5>
                         <p>Ingeniera en Biotecnología</p>
                      </div>
                   </div>
@@ -266,47 +270,20 @@
                <div class="col-lg-3 col-md-6">
                   <div class="single-publish">
                      <a href="<?=base_url()?>img/cursos/1.jpeg"><img src="<?=base_url()?>img/cursos/1.jpeg" class="img-fluid" alt=""></a>
-                     <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-121997039" itemscope itemtype="http://schema.org/Product" data-single-product-id="121997039">
-                        <div class="ecwid-title" itemprop="name" content="Nuevos Negocios en Biotecnología"></div>
-                        <div itemtype="http://schema.org/Offer" itemscope itemprop="offers">
-                           <div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="1450" data-spw-price-location="button">
-                              <div itemprop="priceCurrency" content="MXN"></div>
-                           </div>
-                        </div>
-                        <div customprop="addtobag"></div>
-                     </div>
-                     <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?15498289&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>
+                     <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-121997039" itemscope itemtype="http://schema.org/Product" data-single-product-id="121997039"><div class="ecwid-title" itemprop="name" content="Nuevos Negocios en Biotecnología"></div><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="1" data-spw-price-location="button"><div itemprop="priceCurrency" content="MXN"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?15498289&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>
                   </div>
                </div>
                <div class="col-lg-3 col-md-6">
                   <div class="single-publish">
-                     <a href="<?=base_url()?>img/cursos/2.jpeg"><img src="<?=base_url()?>img/cursos/2.jpeg" class="img-fluid" alt="" width="450" height="600" style="width: 450 !important; height: 500 !important;"></a>
-                     <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-121997040" itemscope itemtype="http://schema.org/Product" data-single-product-id="121997040">
-                        <div class="ecwid-title" itemprop="name" content="Agronegocios"></div>
-                        <div itemtype="http://schema.org/Offer" itemscope itemprop="offers">
-                           <div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="1450" data-spw-price-location="button">
-                              <div itemprop="priceCurrency" content="MXN"></div>
-                           </div>
-                        </div>
-                        <div customprop="options"></div>
-                        <div customprop="addtobag"></div>
-                     </div>
-                     <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?15498289&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>
+                     <a href="<?=base_url()?>img/cursos/2.jpeg"><img src="<?=base_url()?>img/cursos/2.jpeg" class="img-fluid"></a>
+                     <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-121997040" itemscope itemtype="http://schema.org/Product" data-single-product-id="121997040"><div class="ecwid-title" itemprop="name" content="Agronegocios"></div><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="1" data-spw-price-location="button"><div itemprop="priceCurrency" content="MXN"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?15498289&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>
                   </div>
                </div>
                <div class="col-lg-3 col-md-6">
                   <div class="single-publish">
-                     <a href="<?=base_url()?>img/cursos/3.jpeg"><img src="<?=base_url()?>img/cursos/3.jpeg" class="img-fluid" alt=""></a>
-                     <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-121997041" itemscope itemtype="http://schema.org/Product" data-single-product-id="121997041">
-                        <div class="ecwid-title" itemprop="name" content="Fundamentos de Bioprocesos"></div>
-                        <div itemtype="http://schema.org/Offer" itemscope itemprop="offers">
-                           <div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="1600" data-spw-price-location="button">
-                              <div itemprop="priceCurrency" content="MXN"></div>
-                           </div>
-                        </div>
-                        <div customprop="addtobag"></div>
-                     </div>
-                     <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?15498289&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>						
+                     <a href="<?=base_url()?>img/cursos/3.jpeg"><img src="<?=base_url()?>img/cursos/3.jpeg" class="img-fluid"></a>
+                     <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-121997041" itemscope itemtype="http://schema.org/Product" data-single-product-id="121997041"><div class="ecwid-title" itemprop="name" content="Fundamentos de Bioprocesos"></div>
+                     <div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="1600" data-spw-price-location="button"><div itemprop="priceCurrency" content="MXN"></div></div></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?15498289&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>						
                   </div>
                </div>
             </div>
@@ -322,14 +299,16 @@
                </div>
             </div>
             <div class="row">
-               <div class="col-lg-3 col-md-6">
-                  <div class="single-publish">
-                     <a href="<?=base_url()?>img/cursos/old/1.jpeg"><img src="<?=base_url()?>img/cursos/old/1.jpeg" class="img-fluid" alt=""></a>
+               <div class="active-testimonial-carousel">
+                  <div class="single-testimonial">
+                     <div class="single-publish">
+                        <a href="<?=base_url()?>img/cursos/old/1.jpeg"><img src="<?=base_url()?>img/cursos/old/1.jpeg" class="img-fluid"></a>
+                     </div>
                   </div>
-               </div>
-               <div class="col-lg-3 col-md-6">
-                  <div class="single-publish">
-                     <a href="<?=base_url()?>img/cursos/old/2.jpeg"><img src="<?=base_url()?>img/cursos/old/2.jpeg" class="img-fluid" alt=""></a>					
+                  <div class="single-testimonial">
+                     <div class="single-publish">
+                        <a href="<?=base_url()?>img/cursos/old/2.jpeg"><img src="<?=base_url()?>img/cursos/old/2.jpeg" class="img-fluid" alt=""></a>					
+                     </div>
                   </div>
                </div>
             </div>
@@ -533,10 +512,46 @@
       <script src="<?=base_url()?>js/owl.carousel.min.js"></script>
       <script src="<?=base_url()?>js/mixitup.min.js"></script>
       <script src="<?=base_url()?>js/main.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.29.0/dist/sweetalert2.all.min.js"></script>
       <script type="text/javascript">
          $('.carousel').carousel({
             interval: 4000
          });
+         function calidad() {
+            swal({
+             title: 'Calidad',
+             text: 'En AMCEP los ponentes, así como el contenido de los cursos impartidos serán de calidad.',
+             type: 'success',            
+          })
+         }
+         function respeto() {
+            swal({
+             title: 'Respeto',
+             text: 'El trato a los integrantes y clientes de AMCEP en todo momento será respetuoso.',
+             type: 'success',            
+          });
+         }
+         function equidad() {
+            swal({
+             title: 'Equidad',
+             text: 'Durante la relación con AMCEP la equidad en todo momento será parte de las actividades internas y externas.',
+             type: 'success',            
+          });
+         }
+         function honestidad() {
+            swal({
+             title: 'Honestidad',
+             text: 'Para AMCEP la honestidad nos permite un generar un ambiente de confianza mutuo dentro y fuera de sus instalaciones.',
+             type: 'success',            
+          });
+         }
+         function acerca() {
+          swal({
+            title: 'Acerca de AMCEP',
+            html: '<div class="row"><div class="col-lg-12"><p class="text-justify">AMCEP es una empresa formada por jóvenes que quieren maximizar el potencial de individuos que busquen tener un crecimiento intelectual, ampliando su formación profesional. Creemos que la educación en México es primer peldaño para que nuestro país avance en todos los aspectos, es por esto que buscamos áreas de oportunidad que se puedan reforzar en distintos ámbitos. Tomamos como prioridad el conocimiento y tomamos la educación como una filosofía de vida que queremos inculcar. En México las oportunidades de educación muchas veces son escasas, por lo que queremos poner nuestro grano de arena con la realización de cursos en áreas emergentes e innovadoras.</p></div></div>',
+            type: 'info',
+        });
+       }
       </script>
    </body>
 </html>
