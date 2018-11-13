@@ -266,12 +266,6 @@
             <div class="row">
                <div class="col-lg-3 col-md-6">
                   <div class="single-publish">
-                     <a href="<?=base_url()?>img/cursos/1.jpeg"><img src="<?=base_url()?>img/cursos/1.jpeg" class="img-fluid" alt=""></a>
-                     <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-121997039" itemscope itemtype="http://schema.org/Product" data-single-product-id="121997039"><div class="ecwid-title" itemprop="name" content="Nuevos Negocios en Biotecnología"></div><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="1" data-spw-price-location="button"><div itemprop="priceCurrency" content="MXN"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?15498289&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>
-                  </div>
-               </div>
-               <div class="col-lg-3 col-md-6">
-                  <div class="single-publish">
                      <a href="<?=base_url()?>img/cursos/2.jpeg"><img src="<?=base_url()?>img/cursos/2.jpeg" class="img-fluid"></a>
                      <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-121997040" itemscope itemtype="http://schema.org/Product" data-single-product-id="121997040"><div class="ecwid-title" itemprop="name" content="Agronegocios"></div><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="1" data-spw-price-location="button"><div itemprop="priceCurrency" content="MXN"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?15498289&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>
                   </div>
@@ -305,6 +299,11 @@
                   <div class="col-lg-3 col-md-6">
                      <div class="single-publish">
                         <a href="<?=base_url()?>img/cursos/old/2.jpeg"><img src="<?=base_url()?>img/cursos/old/2.jpeg" class="img-fluid" alt=""></a>              
+                     </div>
+                  </div>
+                   <div class="col-lg-3 col-md-6">
+                     <div class="single-publish">
+                        <a href="<?=base_url()?>img/cursos/old/3.png"><img src="<?=base_url()?>img/cursos/old/3.png" class="img-fluid" alt=""></a>              
                      </div>
                   </div>
                <!--</div> -->
