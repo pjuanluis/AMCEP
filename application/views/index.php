@@ -17,15 +17,9 @@
       <link rel="stylesheet" href="<?=base_url()?>css/animate.css">
       <link rel="stylesheet" href="<?=base_url()?>css/bootstrap.css">
       <link rel="stylesheet" href="<?=base_url()?>css/main.css">
-      <!--Start of Zendesk Chat Script-->
-      <script type="text/javascript">
-         window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
-         d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
-         _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
-         $.src="https://v2.zopim.com/?5xlaKXLpliPlNDi5wBSQllky1XXDS5Sk";z.t=+new Date;$.
-         type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
-      </script>
-      <!--End of Zendesk Chat Script-->	
+        <!-- Start of  Zendesk Widget script -->
+        <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=d5f1a6b4-eec9-4ec3-bf37-538659b556fa"> </script>
+        <!-- End of  Zendesk Widget script -->   
    </head>
    <body onLoad="setupZoom()">
       <div id="top"></div>
@@ -69,7 +63,7 @@
             <div class="row fullscreen justify-content-center align-items-center">
                <div class="col-lg-12">
                   <!-- <div class="banner-content text-center">
-                     <p> <img src="<?=base_url()?>img/amcepmain.png"></p>							
+                     <p> <img src="<?=base_url()?>img/amcepmain.png"></p>                    
                      <h2 class="text-uppercase text-white">Asociación Mexicana de Capacitación para la Especialización de Profesionistas</h2>
                      <a href="#acerca" class="primary-btn banner-btn">Conócenos</a>
                      </div>-->
@@ -81,16 +75,16 @@
                       </ol>
                       <div class="carousel-inner">
                         <div class="carousel-item active">
-                           <img class="d-block w-100" src="img/carrusel/1.jpg" alt="First slide">
+                           <img class="d-block w-100" src="img/carrusel/1.jpeg" alt="First slide">
                           <!--  <div class="carousel-caption d-none d-md-block">
                               <h3 class="text-light">ASOCIACIÓN MEXICANA DE CAPACITACIÓN PARA LA ESPECIALIZACIÓN DE PROFESIONISTAS</h3>
                            </div> -->
                         </div>
                         <div class="carousel-item">                           
-                           <img class="d-block w-100" src="img/carrusel/2.jpg" alt="Two slide">                         
+                           <img class="d-block w-100" src="img/carrusel/2.jpeg" alt="Two slide">                         
                         </div>
                         <div class="carousel-item">
-                           <img class="d-block w-100" src="img/carrusel/3.jpg" alt="Third slide">
+                           <img class="d-block w-100" src="img/carrusel/3.jpeg" alt="Third slide">
                         </div>
                      </div>
                      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -114,7 +108,7 @@
                <div class="col-lg-10">
                   <div class="section-title text-center">
                      <p class="text-uppercase">
-                        <button type="button" class="btn btn-link" onclick="acerca();">Acerca de AMCEP</button>
+                        <button type="button" class="primary-btn" onclick="acerca();">Acerca de AMCEP</button>
                      </p>
                      <h3>Somos una empresa que capacita y especializa a todo individuo que desee destacar del resto.</h3>
                   </div>
@@ -146,7 +140,7 @@
                      <img height="250" width="360" src="<?=base_url()?>img/Valores.jpg" class="img-fluid" alt="">
                      <figcaption class="text-center">
                         <h5 class="text-uppercase">Valores</h5>
-                        <p>Nuestros valores son:<br><br>                        									
+                        <p>Nuestros valores son:<br><br>                                                 
                            <button type="button" class="btn btn-link" onclick="calidad()">° Calidad</button> <br><br>
                            <button type="button" class="btn btn-link" onclick="respeto();">° Respeto</button> <br><br>
                            <button type="button" class="btn btn-link" onclick="equidad();">° Equidad</button> <br><br>
@@ -155,6 +149,13 @@
                      </figcaption>
                   </figure>
                </div>
+                <div class="text-center section-title">
+                     <h3><strong>Nuestros cursos cuentan con constancia DC-3 de Habilidades laborales.</strong></h3>
+                     <h3>
+                        ¿Qué es la constancia de habilidades laborales?<br>
+                        La constancia de habilidades laborales es un documento con valor curricular, el cual acredita la capacitación que un individuo recibe al finalizar el curso, como resultado de la aprobación de éste.
+                     </h3>
+                </div>
             </div>
          </div>
       </section>
@@ -199,7 +200,7 @@
                            <p class="text-white">Especializado en cultivo celular y áreas inmunológicas, con interés en el control de calidad y un mayor impulso en el desarrollo farmacéutico a nivel nacional</p>
                            <div class="line"></div>
                            <div class="social d-flex align-items-center justify-content-center">
-                              <!-- 	<a href="#"><i class="fa fa-facebook"></i></a>
+                              <!--  <a href="#"><i class="fa fa-facebook"></i></a>
                                  <a href="#"><i class="fa fa-twitter"></i></a>
                                  <a href="#"><i class="fa fa-linkedin"></i></a> -->
                            </div>
@@ -237,7 +238,7 @@
                            <p class="text-white">Con amplio interés en nanotecnología, así como en el desarrollo de nuevos productos en el área cosmética, comprometida con extender el desarrollo sustentable en esta área.</p>
                            <div class="line"></div>
                            <div class="social d-flex align-items-center justify-content-center">
-                              <!-- 			<a href="#"><i class="fa fa-facebook"></i></a>
+                              <!--        <a href="#"><i class="fa fa-facebook"></i></a>
                                  <a href="#"><i class="fa fa-twitter"></i></a>
                                  <a href="#"><i class="fa fa-linkedin"></i></a> -->
                            </div>
@@ -281,7 +282,7 @@
                   <div class="single-publish">
                      <a href="<?=base_url()?>img/cursos/3.jpeg"><img src="<?=base_url()?>img/cursos/3.jpeg" class="img-fluid"></a>
                      <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-121997041" itemscope itemtype="http://schema.org/Product" data-single-product-id="121997041"><div class="ecwid-title" itemprop="name" content="Fundamentos de Bioprocesos"></div>
-                     <div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="1600" data-spw-price-location="button"><div itemprop="priceCurrency" content="MXN"></div></div></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?15498289&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>						
+                     <div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="1600" data-spw-price-location="button"><div itemprop="priceCurrency" content="MXN"></div></div></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?15498289&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>                
                   </div>
                </div>
             </div>
@@ -305,7 +306,7 @@
                   </div>
                   <div class="col-lg-3 col-md-6">
                      <div class="single-publish">
-                        <a href="<?=base_url()?>img/cursos/old/2.jpeg"><img src="<?=base_url()?>img/cursos/old/2.jpeg" class="img-fluid" alt=""></a>					
+                        <a href="<?=base_url()?>img/cursos/old/2.jpeg"><img src="<?=base_url()?>img/cursos/old/2.jpeg" class="img-fluid" alt=""></a>              
                      </div>
                   </div>
                <!--</div> -->
@@ -391,7 +392,7 @@
                <div class="col-lg-8">
                   <div class="product-area-title text-center">
                      <p class="text-uppercase">Contactanos</p>
-                     <h2 class="h1">Dejanos tu mensaje</h2>
+                     <h2 class="h1">Pregunta por nuestros cursos</h2>
                   </div>
                </div>
             </div>
@@ -461,7 +462,7 @@
                            <li><a href="#cursos">Cursos</a></li>
                         </ul>
                         <ul class="ml-30 footer-nav">
-                           <!-- 		<li><a href="#equipo">Equipo</a></li>
+                           <!--     <li><a href="#equipo">Equipo</a></li>
                               <li><a href="#">Pricing</a></li>
                               <li><a href="#">Blog</a></li>
                               <li><a href="#">Contact</a></li> -->
