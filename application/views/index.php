@@ -106,10 +106,8 @@
          <div class="container">
             <div class="row justify-content-center">
                <div class="col-lg-10">
-                  <div class="section-title text-center">
-                     <p class="text-uppercase">
-                        <button type="button" class="primary-btn" onclick="acerca();">Acerca de AMCEP</button>
-                     </p>
+                  <div class="section-title text-center">                     
+                     <button type="button" class="btn btn-outline-info" onclick="acerca();">Acerca de AMCEP</button>
                      <h3>Somos una empresa que capacita y especializa a todo individuo que desee destacar del resto.</h3>
                   </div>
                </div>
@@ -328,56 +326,56 @@
             <div class="row">
                <div class="col-lg-3 col-md-6">
                   <div class="single-publish">
-                     <a target="_blank" href="https://www.eleconomista.com.mx/mercados/FIRA-emite-primer-bono-verde-para-sector-rural-20181022-0119.html"><img  src="https://www.eleconomista.com.mx/__export/1540261432828/sites/eleconomista/img/2018/10/22/agro.jpg_423392900.jpg" class="img-fluid" alt=""></a>
+                     <a target="_blank" href="https://giniusrevista.wixsite.com/ginius/single-post/2018/01/23/FrankenBurger-Carne-producida-en-laboratorio"><img  src="https://static.wixstatic.com/media/f64372_814a54b4cb674b0e996dc8bc3dc1c79e~mv2.jpg/v1/fill/w_291,h_177,al_c,lg_1,q_80/f64372_814a54b4cb674b0e996dc8bc3dc1c79e~mv2.webp" class="img-fluid" alt=""></a>
                      <div class="top">
                         <div class="mb-15 d-flex">
                            <label></label>
                            <span class="line">|</span>
-                           <label>By Judith Santiago</label>
+                           <label>By Pamela Gómez</label>
                         </div>
-                        <h6 class="text-uppercase"><a href="https://www.eleconomista.com.mx/mercados/FIRA-emite-primer-bono-verde-para-sector-rural-20181022-0119.html">FIRA emite primer bono verde para sector rural</a></h6>
+                        <h6 class="text-uppercase"><a href="https://giniusrevista.wixsite.com/ginius/single-post/2018/01/23/FrankenBurger-Carne-producida-en-laboratorio">FrankenBurger: Carne producida en laboratorio</a></h6>
                      </div>
                   </div>
                </div>
                <!-- End news 1 -->
                <div class="col-lg-3 col-md-6">
                   <div class="single-publish">
-                     <a target="_blank" href="https://www.eleconomista.com.mx/opinion/El-comercio-agroalimentario-mundial-20181028-0032.html"><img src="<?=base_url()?>img/noticias/2.jpg" class="img-fluid" alt=""></a>
+                     <a target="_blank" href="https://giniusrevista.wixsite.com/ginius/single-post/2018/01/10/EL-PELIGRO-DE-LA-AUTOMEDICACI%C3%93N"><img src="https://static.wixstatic.com/media/2763d3_b89b43b14aa744ab9e27f399772bd038~mv2.jpg/v1/fill/w_569,h_379,al_c,q_80,usm_0.66_1.00_0.01/2763d3_b89b43b14aa744ab9e27f399772bd038~mv2.webp" class="img-fluid" alt=""></a>
                      <div class="top">
                         <div class="mb-15 d-flex">
                            <label></label>
                            <span class="line">|</span>
-                           <label>By Darío Gaucín</label>
+                           <label>By Pamela Gómez</label>
                         </div>
-                        <h6 class="text-uppercase"><a href="https://www.eleconomista.com.mx/opinion/El-comercio-agroalimentario-mundial-20181028-0032.html">El comercio agroalimentario mundial</a></h6>
+                        <h6 class="text-uppercase"><a href="https://giniusrevista.wixsite.com/ginius/single-post/2018/01/10/EL-PELIGRO-DE-LA-AUTOMEDICACI%C3%93N">EL PELIGRO DE LA AUTOMEDICACIÓN</a></h6>
                      </div>
                   </div>
                </div>
                <!-- End news 2 -->
                <div class="col-lg-3 col-md-6">
                   <div class="single-publish">
-                     <a target="_blank" href="http://www.elfinanciero.com.mx/economia/sagarpa-actualiza-el-plan-agricola-nacional-2018"><img src="http://www.elfinanciero.com.mx/uploads/2018/10/24/e95a45d0b11540435805_standard_desktop_medium_retina.png" class="img-fluid" alt=""></a>
+                     <a target="_blank" href="https://giniusrevista.wixsite.com/ginius/single-post/2017/12/19/%C2%BFC%C3%B3mo-funcionan-las-vacunas"><img src="https://static.wixstatic.com/media/f64372_8060cc74ccab49bb8a980819ab4ac8c0~mv2.jpg/v1/fill/w_518,h_321,al_c,q_80,usm_0.66_1.00_0.01/f64372_8060cc74ccab49bb8a980819ab4ac8c0~mv2.webp" class="img-fluid" alt=""></a>
                      <div class="top">
                         <div class="mb-15 d-flex">
                            <label></label>
                            <span class="line">|</span>
-                           <label>By Diana Nava</label>
+                           <label>By Pamela Gómez</label>
                         </div>
-                        <h6 class="text-uppercase"><a href="http://www.elfinanciero.com.mx/economia/sagarpa-actualiza-el-plan-agricola-nacional-2018">Sagarpa actualiza el plan agrícola nacional 2018</a></h6>
+                        <h6 class="text-uppercase"><a href="https://giniusrevista.wixsite.com/ginius/single-post/2017/12/19/%C2%BFC%C3%B3mo-funcionan-las-vacunas">¿Cómo funcionan las vacunas?</a></h6>
                      </div>
                   </div>
                </div>
                <!-- End news 3 -->
                <div class="col-lg-3 col-md-6">
                   <div class="single-publish">
-                     <a target="_blank" href="https://www.eleconomista.com.mx/opinion/Salon-de-la-alimentacion-retos-de-innovacion-alimentaria-20181023-0027.html"><img src="<?=base_url()?>img/noticias/4.jpg" class="img-fluid" alt=""></a>
+                     <a target="_blank" href="https://giniusrevista.wixsite.com/ginius/single-post/2017/12/13/INCENDIOS-EN-CALIFORNIA-Y-EL-CAMBIO-CLIM%C3%81TICO"><img src="https://static.wixstatic.com/media/f64372_c96d1d56f4c54cf6819c530edab22b92~mv2.jpg/v1/fill/w_478,h_359,al_c,q_80,usm_0.66_1.00_0.01/f64372_c96d1d56f4c54cf6819c530edab22b92~mv2.webp" class="img-fluid" alt=""></a>
                      <div class="top">
                         <div class="mb-15 d-flex">
                            <label></label>
                            <span class="line">|</span>
-                           <label>By Liliana Martínez</label>
+                           <label>By Pamela Gómez</label>
                         </div>
-                        <h6 class="text-uppercase"><a href="https://www.eleconomista.com.mx/opinion/Salon-de-la-alimentacion-retos-de-innovacion-alimentaria-20181023-0027.html">Salón de la alimentación: retos de innovación alimentaria</a></h6>
+                        <h6 class="text-uppercase"><a href="https://giniusrevista.wixsite.com/ginius/single-post/2017/12/13/INCENDIOS-EN-CALIFORNIA-Y-EL-CAMBIO-CLIM%C3%81TICO">INCENDIOS EN CALIFORNIA Y EL CAMBIO CLIMÁTICO</a></h6>
                      </div>
                   </div>
                </div>
@@ -472,7 +470,7 @@
                </div>
                <div class="col-lg-3 col-sm-6">
                   <div class="single-footer-widget">
-                     <h6 class="text-white text-uppercase mb-20">Suscribete</h6>
+                     <h6 class="text-white text-uppercase mb-20">Suscríbete</h6>
                      <p>Si deseas recibir toda la información de nuestros cursos y capacitaciones a tu correo, suscribete</p>
                      <div id="mc_embed_signup">
                         <form target="_blank" novalidate action="#" method="post" class="subscription relative d-flex justify-content-center">
