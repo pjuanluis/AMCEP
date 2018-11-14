@@ -303,7 +303,7 @@
                   </div>
                    <div class="col-lg-3 col-md-6">
                      <div class="single-publish">
-                        <a href="<?=base_url()?>img/cursos/old/3.png"><img src="<?=base_url()?>img/cursos/old/3.png" class="img-fluid" alt=""></a>              
+                        <a href="<?=base_url()?>img/cursos/old/3.jpeg"><img src="<?=base_url()?>img/cursos/old/3.jpeg" class="img-fluid" alt=""></a>              
                      </div>
                   </div>
                <!--</div> -->
@@ -325,7 +325,7 @@
             <div class="row">
                <div class="col-lg-3 col-md-6">
                   <div class="single-publish">
-                     <a target="_blank" href="https://giniusrevista.wixsite.com/ginius/single-post/2018/01/23/FrankenBurger-Carne-producida-en-laboratorio"><img  src="https://static.wixstatic.com/media/f64372_814a54b4cb674b0e996dc8bc3dc1c79e~mv2.jpg/v1/fill/w_291,h_177,al_c,lg_1,q_80/f64372_814a54b4cb674b0e996dc8bc3dc1c79e~mv2.webp" class="img-fluid" alt=""></a>
+                     <a target="_blank" href="https://giniusrevista.wixsite.com/ginius/single-post/2018/01/23/FrankenBurger-Carne-producida-en-laboratorio"><img  src="<?=base_url()?>img/noticias/1.jpg" class="img-fluid" alt=""></a>
                      <div class="top">
                         <div class="mb-15 d-flex">
                            <label></label>
@@ -339,7 +339,7 @@
                <!-- End news 1 -->
                <div class="col-lg-3 col-md-6">
                   <div class="single-publish">
-                     <a target="_blank" href="https://giniusrevista.wixsite.com/ginius/single-post/2018/01/10/EL-PELIGRO-DE-LA-AUTOMEDICACI%C3%93N"><img src="https://static.wixstatic.com/media/2763d3_b89b43b14aa744ab9e27f399772bd038~mv2.jpg/v1/fill/w_569,h_379,al_c,q_80,usm_0.66_1.00_0.01/2763d3_b89b43b14aa744ab9e27f399772bd038~mv2.webp" class="img-fluid" alt=""></a>
+                     <a target="_blank" href="https://giniusrevista.wixsite.com/ginius/single-post/2018/01/10/EL-PELIGRO-DE-LA-AUTOMEDICACI%C3%93N"><img src="<?=base_url()?>img/noticias/2.jpg" class="img-fluid" alt=""></a>
                      <div class="top">
                         <div class="mb-15 d-flex">
                            <label></label>
@@ -353,7 +353,7 @@
                <!-- End news 2 -->
                <div class="col-lg-3 col-md-6">
                   <div class="single-publish">
-                     <a target="_blank" href="https://giniusrevista.wixsite.com/ginius/single-post/2017/12/19/%C2%BFC%C3%B3mo-funcionan-las-vacunas"><img src="https://static.wixstatic.com/media/f64372_8060cc74ccab49bb8a980819ab4ac8c0~mv2.jpg/v1/fill/w_518,h_321,al_c,q_80,usm_0.66_1.00_0.01/f64372_8060cc74ccab49bb8a980819ab4ac8c0~mv2.webp" class="img-fluid" alt=""></a>
+                     <a target="_blank" href="https://giniusrevista.wixsite.com/ginius/single-post/2017/12/19/%C2%BFC%C3%B3mo-funcionan-las-vacunas"><img src="<?=base_url()?>img/noticias/3.jpg" class="img-fluid" alt=""></a>
                      <div class="top">
                         <div class="mb-15 d-flex">
                            <label></label>
@@ -367,7 +367,7 @@
                <!-- End news 3 -->
                <div class="col-lg-3 col-md-6">
                   <div class="single-publish">
-                     <a target="_blank" href="https://giniusrevista.wixsite.com/ginius/single-post/2017/12/13/INCENDIOS-EN-CALIFORNIA-Y-EL-CAMBIO-CLIM%C3%81TICO"><img src="https://static.wixstatic.com/media/f64372_c96d1d56f4c54cf6819c530edab22b92~mv2.jpg/v1/fill/w_478,h_359,al_c,q_80,usm_0.66_1.00_0.01/f64372_c96d1d56f4c54cf6819c530edab22b92~mv2.webp" class="img-fluid" alt=""></a>
+                     <a target="_blank" href="https://giniusrevista.wixsite.com/ginius/single-post/2017/12/13/INCENDIOS-EN-CALIFORNIA-Y-EL-CAMBIO-CLIM%C3%81TICO"><img src="<?=base_url()?>img/noticias/4.jpg" class="img-fluid" alt=""></a>
                      <div class="top">
                         <div class="mb-15 d-flex">
                            <label></label>
