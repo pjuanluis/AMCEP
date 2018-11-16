@@ -3,7 +3,7 @@
    <head>
       
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-      <link rel="shortcut icon" href="img/fav.png">
+      <link rel="shortcut icon" href="<?=base_url()?>img/fav.png">
       <meta name="author" content="Soluciones tenológicas">
       <meta name="description" content="ASOCIACIÓN MEXICANA DE CAPACITACIÓN PARA LA ESPECIALIZACIÓN DE PROFESIONISTAS">
       <meta name="keywords" content="AMCEP, amcep, Asociación Mexicana, Cursos, Capacitaciones">

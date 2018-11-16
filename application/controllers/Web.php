@@ -16,8 +16,5 @@ class Web extends CI_Controller {
 		$this->load->view('aviso');
 	}
 	
-	public function carrito(){
-		$this->load->view('carrito');
-	}
 
 }
