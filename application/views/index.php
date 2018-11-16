@@ -150,7 +150,6 @@
                 <div class="text-center section-title">
                      <h3><strong>Nuestros cursos cuentan con constancia DC-3 de Habilidades laborales.</strong></h3>
                      <h3>
-                        ¿Qué es la constancia de habilidades laborales?<br>
                         La constancia de habilidades laborales es un documento con valor curricular, el cual acredita la capacitación que un individuo recibe al finalizar el curso, como resultado de la aprobación de éste.
                      </h3>
                 </div>
@@ -264,18 +263,9 @@
                </div>
             </div>
             <div class="row">
-               <div class="col-lg-3 col-md-6">
-                  <div class="single-publish">
-                     <a href="<?=base_url()?>img/cursos/2.jpeg"><img src="<?=base_url()?>img/cursos/2.jpeg" class="img-fluid"></a>
-                     <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-121997040" itemscope itemtype="http://schema.org/Product" data-single-product-id="121997040"><div class="ecwid-title" itemprop="name" content="Agronegocios"></div><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="1" data-spw-price-location="button"><div itemprop="priceCurrency" content="MXN"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?15498289&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>
-                  </div>
-               </div>
-               <div class="col-lg-3 col-md-6">
-                  <div class="single-publish">
-                     <a href="<?=base_url()?>img/cursos/3.jpeg"><img src="<?=base_url()?>img/cursos/3.jpeg" class="img-fluid"></a>
-                     <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-121997041" itemscope itemtype="http://schema.org/Product" data-single-product-id="121997041"><div class="ecwid-title" itemprop="name" content="Fundamentos de Bioprocesos"></div>
-                     <div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="1600" data-spw-price-location="button"><div itemprop="priceCurrency" content="MXN"></div></div></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?15498289&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>                
-                  </div>
+               <div id="my-store-15498289"></div>
+               <div>
+                  <script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?15498289&data_platform=code&data_date=2018-11-15" charset="utf-8"></script><script type="text/javascript"> xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-15498289");</script>
                </div>
             </div>
          </div>
@@ -318,7 +308,7 @@
                <div class="col-lg-8">
                   <div class="product-area-title text-center">
                      <p class="text-uppercase"></p>
-                     <h2 class="h1">Noticias</h2>
+                     <h2 class="h1">¡Entérate!</h2>
                   </div>
                </div>
             </div>
@@ -332,7 +322,7 @@
                            <span class="line">|</span>
                            <label>By Pamela Gómez</label>
                         </div>
-                        <h6 class="text-uppercase"><a href="https://giniusrevista.wixsite.com/ginius/single-post/2018/01/23/FrankenBurger-Carne-producida-en-laboratorio">FrankenBurger: Carne producida en laboratorio</a></h6>
+                        <h6 class="text-uppercase"><a target="_blank" href="https://giniusrevista.wixsite.com/ginius/single-post/2018/01/23/FrankenBurger-Carne-producida-en-laboratorio">FrankenBurger: Carne producida en laboratorio</a></h6>
                      </div>
                   </div>
                </div>
@@ -346,7 +336,7 @@
                            <span class="line">|</span>
                            <label>By Pamela Gómez</label>
                         </div>
-                        <h6 class="text-uppercase"><a href="https://giniusrevista.wixsite.com/ginius/single-post/2018/01/10/EL-PELIGRO-DE-LA-AUTOMEDICACI%C3%93N">EL PELIGRO DE LA AUTOMEDICACIÓN</a></h6>
+                        <h6 class="text-uppercase"><a target="_blank" href="https://giniusrevista.wixsite.com/ginius/single-post/2018/01/10/EL-PELIGRO-DE-LA-AUTOMEDICACI%C3%93N">EL PELIGRO DE LA AUTOMEDICACIÓN</a></h6>
                      </div>
                   </div>
                </div>
@@ -360,7 +350,7 @@
                            <span class="line">|</span>
                            <label>By Pamela Gómez</label>
                         </div>
-                        <h6 class="text-uppercase"><a href="https://giniusrevista.wixsite.com/ginius/single-post/2017/12/19/%C2%BFC%C3%B3mo-funcionan-las-vacunas">¿Cómo funcionan las vacunas?</a></h6>
+                        <h6 class="text-uppercase"><a target="_blank" href="https://giniusrevista.wixsite.com/ginius/single-post/2017/12/19/%C2%BFC%C3%B3mo-funcionan-las-vacunas">¿Cómo funcionan las vacunas?</a></h6>
                      </div>
                   </div>
                </div>
@@ -374,7 +364,7 @@
                            <span class="line">|</span>
                            <label>By Pamela Gómez</label>
                         </div>
-                        <h6 class="text-uppercase"><a href="https://giniusrevista.wixsite.com/ginius/single-post/2017/12/13/INCENDIOS-EN-CALIFORNIA-Y-EL-CAMBIO-CLIM%C3%81TICO">INCENDIOS EN CALIFORNIA Y EL CAMBIO CLIMÁTICO</a></h6>
+                        <h6 class="text-uppercase"><a target="_blank" href="https://giniusrevista.wixsite.com/ginius/single-post/2017/12/13/INCENDIOS-EN-CALIFORNIA-Y-EL-CAMBIO-CLIM%C3%81TICO">INCENDIOS EN CALIFORNIA Y EL CAMBIO CLIMÁTICO</a></h6>
                      </div>
                   </div>
                </div>
